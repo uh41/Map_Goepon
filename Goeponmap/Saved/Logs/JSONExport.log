@@ -1307,3 +1307,379 @@ PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
 [2026.02.06-10.54.52:608][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6554.805176
 [2026.02.06-10.54.52:908][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.06-10.54.52:908][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6555.071777, Update Interval: 325.432281
+[2026.02.06-10.58.31:476][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.02.06-10.58.31:484][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-10.58.31:548][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-10.58.31:567][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.06-10.58.31:611][338]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-10.58.31:611][338]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage25FB5B2DD477FA0FA7DAAAD83C2910EAB.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-10.58.31:837][338]LogFileHelpers: Saving map 'stage2' took 0.290
+[2026.02.06-10.58.31:844][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 361 ms
+[2026.02.06-10.58.31:849][338]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-10.58.31:849][338]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-10.58.37:109][493]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.06-10.58.37:117][493]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.06-11.00.43:224][259]LogSlate: Took 0.006894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.06-11.00.49:608][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6911.658203
+[2026.02.06-11.00.49:908][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.00.49:908][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6911.924805, Update Interval: 356.493408
+[2026.02.06-11.01.13:607][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.01.13:678][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset" SILENT=true
+[2026.02.06-11.01.13:680][168]LogSavePackage: Moving output files for package: /Game/JSONExport/SPlacement
+[2026.02.06-11.01.13:680][168]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacementEE331E4149EC92BF4172C9AC492B5A05.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset'
+[2026.02.06-11.01.13:688][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 442 ms)
+[2026.02.06-11.01.13:689][168]AssetCheck: New page: アセット保存：SPlacement
+[2026.02.06-11.01.13:689][168]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/JSONExport/SPlacement.SPlacement を検証しています
+[2026.02.06-11.01.16:373][244]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.01.16:408][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.06-11.04.02:769][186]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.06-11.04.02:769][186]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2026.02.06-11.04.03:070][195]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.06-13.04.01 Remaining: 7200.82] Refresh[Expires: 2026-08-05T09:05:40.815Z Remaining: 15544899.81] State: Valid
+[2026.02.06-11.05.25:875][667]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2026.02.06-11.05.28:072][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.05.28:121][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset" SILENT=true
+[2026.02.06-11.05.28:122][730]LogSavePackage: Moving output files for package: /Game/JSONExport/SPlacement
+[2026.02.06-11.05.28:122][730]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacement19BFF16B41790D49AFB1309D2E0EF24D.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset'
+[2026.02.06-11.05.28:128][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 499 ms)
+[2026.02.06-11.05.28:130][730]AssetCheck: New page: アセット保存：SPlacement
+[2026.02.06-11.05.28:130][730]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/JSONExport/SPlacement.SPlacement を検証しています
+[2026.02.06-11.07.19:237][ 37]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1904 files in 2979 folders with total size 266 MiB.
+[2026.02.06-11.07.42:346][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7324.380371
+[2026.02.06-11.07.42:645][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.07.42:645][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7324.646484, Update Interval: 343.567627
+[2026.02.06-11.10.41:441][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.06-11.10.41:444][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.023
+[2026.02.06-11.10.41:444][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JSONExport/EUW_JSONExport] ([2] browsable assets)...
+[2026.02.06-11.10.41:451][  1]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport]
+[2026.02.06-11.10.41:451][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/EUW_JSONExport]
+[2026.02.06-11.10.41:451][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.02.06-11.10.41:471][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/EUW_JSONExport_Auto2
+[2026.02.06-11.10.41:471][  1]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport_Auto2E19E311645B931AFA4EFE796889FB3F7.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto2.uasset'
+[2026.02.06-11.10.41:471][  1]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.02.06-11.12.38:468][499]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.02.06-11.12.38:558][499]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.090 s
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: === Handled ensure: ===
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: 
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 914] 
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinString [NodeFactory.cpp(326)]). See InvalidateGraphData for more info
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: Stack: 
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a7ef0f1 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a704e08 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a7ec706 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a58cf49 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a786334 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff97a7840f5 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7a560 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7a374 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7eac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7eac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7a374 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:558][499]LogOutputDevice: Error: [Callstack] 0x00007ff988b7eac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839666f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9839627ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98396266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983961ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983965925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983996892 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff9837981bc UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff983996c80 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98882f615 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98882fb26 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98885518e UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff98882fc61 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff988877514 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff988876be2 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d92e9d0f UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d930d28c UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d930d37a UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d9310854 UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d9326984 UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: [Callstack] 0x00007ff7d9329d7a UnrealEditor.exe!UnknownFunction []
+[2026.02.06-11.12.38:559][499]LogOutputDevice: Error: 
+[2026.02.06-11.12.38:843][499]LogStats:                SubmitErrorReport -  0.000 s
+[2026.02.06-11.12.40:568][499]LogStats:                    SendNewReport -  1.726 s
+[2026.02.06-11.12.40:568][499]LogStats:             FDebug::EnsureFailed -  2.101 s
+[2026.02.06-11.12.40:569][499]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.06-11.14.12:245][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7714.267578
+[2026.02.06-11.14.12:541][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.14.12:541][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7714.531738, Update Interval: 355.513794
+[2026.02.06-11.14.34:547][896]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.14.34:598][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.06-11.16.40:435][664]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.16.40:481][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.06-11.20.50:180][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8112.217773
+[2026.02.06-11.20.50:480][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.20.50:480][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8112.485840, Update Interval: 357.388824
+[2026.02.06-11.22.39:104][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.02.06-11.22.39:107][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.022
+[2026.02.06-11.22.39:108][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JSONExport/EUW_JSONExport] ([2] browsable assets)...
+[2026.02.06-11.22.39:131][384]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport]
+[2026.02.06-11.22.39:132][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/EUW_JSONExport]
+[2026.02.06-11.22.39:132][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.02.06-11.22.39:154][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/EUW_JSONExport_Auto3
+[2026.02.06-11.22.39:154][384]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport_Auto30D6CF75645ED669ABF31BFAD13D91E86.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto3.uasset'
+[2026.02.06-11.22.39:154][384]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.02.06-11.23.05:276][150]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.23.05:319][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.06-11.27.31:116][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8513.118164
+[2026.02.06-11.27.31:416][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.27.31:416][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8513.384766, Update Interval: 350.480042
+[2026.02.06-11.27.50:850][678]LogEditorTransaction: Undo 変数へ昇格
+[2026.02.06-11.31.29:100][155]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.31.29:148][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.06-11.32.44:011][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.06-11.32.44:014][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.016
+[2026.02.06-11.32.44:014][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JSONExport/EUW_JSONExport] ([2] browsable assets)...
+[2026.02.06-11.32.44:038][388]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport]
+[2026.02.06-11.32.44:038][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/EUW_JSONExport]
+[2026.02.06-11.32.44:038][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.02.06-11.32.44:060][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/EUW_JSONExport_Auto4
+[2026.02.06-11.32.44:060][388]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport_Auto4E937E4E649662766381855B4BF9C19EB.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto4.uasset'
+[2026.02.06-11.32.44:061][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/JSONExport/SPlacement] ([1] browsable assets)...
+[2026.02.06-11.32.44:061][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/SPlacement]
+[2026.02.06-11.32.44:061][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/SPlacement_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.02.06-11.32.44:062][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/SPlacement_Auto4
+[2026.02.06-11.32.44:062][388]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacement_Auto4268087E14B5327BD5FF47E830632911A.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/SPlacement_Auto4.uasset'
+[2026.02.06-11.32.44:062][388]LogFileHelpers: Auto-saving content packages took 0.049
+[2026.02.06-11.33.28:980][735]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.33.29:026][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.06-11.34.12:856][962]LogAutomationController: Ignoring very large delta of 2.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.06-11.34.15:996][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8917.946289
+[2026.02.06-11.34.16:295][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.34.16:296][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8918.212891, Update Interval: 321.909241
+[2026.02.06-11.34.19:530][162]LogScript: Error: Script Msg: Traceback (most recent call last):
+
+  File "<string>", line 5, in <module>
+
+PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
+
+[2026.02.06-11.34.19:530][162]LogScript: Error: Script call stack:
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.ExecuteUbergraph_EUW_JSONExport <---
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.BndEvt__EUW_test_Button_0_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature
+
+[2026.02.06-11.38.32:146][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.38.32:196][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.38.32:227][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.06-11.38.32:267][719]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.38.32:267][719]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2869E53984372FB73DF1E1EB6B56A3194.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.38.32:275][719]LogFileHelpers: Saving map 'stage2' took 0.080
+[2026.02.06-11.38.32:282][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 635 ms)
+[2026.02.06-11.38.32:284][719]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.38.32:284][719]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.39.04:496][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.39.04:545][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.39.04:573][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.02.06-11.39.04:614][685]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.39.04:614][685]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2D51D1235431B410CB25E7BAC951ABFA1.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.39.04:622][685]LogFileHelpers: Saving map 'stage2' took 0.078
+[2026.02.06-11.39.04:631][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 769 ms)
+[2026.02.06-11.39.04:632][685]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.39.04:633][685]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.40.15:013][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9276.257812
+[2026.02.06-11.40.15:313][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.40.15:313][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9276.526367, Update Interval: 316.824249
+[2026.02.06-11.42.06:696][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.42.06:744][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.42.06:770][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.06-11.42.06:809][127]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.42.06:809][127]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage260FFF1C543B538B6F8D2DC8898023307.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.42.06:819][127]LogFileHelpers: Saving map 'stage2' took 0.075
+[2026.02.06-11.42.06:826][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 900 ms)
+[2026.02.06-11.42.06:828][127]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.42.06:828][127]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.42.07:105][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.42.07:161][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.42.07:190][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.06-11.42.07:229][136]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.42.07:230][136]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage23CDD9D7B4109CD35E2A0F1BB2905CB99.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.42.07:238][136]LogFileHelpers: Saving map 'stage2' took 0.078
+[2026.02.06-11.42.07:246][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1.04 sec)
+[2026.02.06-11.42.07:248][136]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.42.07:248][136]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.43.23:780][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.43.23:845][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.43.23:876][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.06-11.43.23:916][409]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.43.23:917][409]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2726373024F73553C0D5CBAB284B89E4F.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.43.23:926][409]LogFileHelpers: Saving map 'stage2' took 0.081
+[2026.02.06-11.43.23:934][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1.19 sec)
+[2026.02.06-11.43.23:937][409]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.43.23:937][409]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.43.24:514][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.43.24:579][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.43.24:607][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.06-11.43.24:646][427]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.43.24:646][427]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2F03616494522ABF575A8CCA17D08C7E7.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.43.24:655][427]LogFileHelpers: Saving map 'stage2' took 0.076
+[2026.02.06-11.43.24:662][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1.34 sec)
+[2026.02.06-11.43.24:665][427]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.43.24:665][427]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.43.40:995][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.43.41:045][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.43.41:072][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.06-11.43.41:113][916]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.43.41:113][916]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage26D3D3E1442A2237E51CCC8A2B5BF4792.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.43.41:122][916]LogFileHelpers: Saving map 'stage2' took 0.078
+[2026.02.06-11.43.41:130][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1.47 sec)
+[2026.02.06-11.43.41:132][916]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.43.41:132][916]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.46.07:249][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9627.782227
+[2026.02.06-11.46.07:550][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.46.07:550][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9628.048828, Update Interval: 346.046936
+[2026.02.06-11.50.09:620][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.50.09:675][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset" SILENT=true
+[2026.02.06-11.50.09:676][536]LogSavePackage: Moving output files for package: /Game/JSONExport/SPlacement
+[2026.02.06-11.50.09:677][536]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacement40F6CDE44446934538E2B18F14F5C56A.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset'
+[2026.02.06-11.50.09:683][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.54 sec)
+[2026.02.06-11.50.09:684][536]AssetCheck: New page: アセット保存：SPlacement
+[2026.02.06-11.50.09:684][536]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/JSONExport/SPlacement.SPlacement を検証しています
+[2026.02.06-11.50.11:477][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.50.11:549][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset" SILENT=true
+[2026.02.06-11.50.11:570][590]LogSavePackage: Moving output files for package: /Game/JSONExport/EUW_JSONExport
+[2026.02.06-11.50.11:570][590]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExportAD7028EB4770CE024F8148953054D4DA.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset'
+[2026.02.06-11.50.11:578][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.64 sec)
+[2026.02.06-11.50.11:580][590]AssetCheck: New page: アセット保存：EUW_JSONExport
+[2026.02.06-11.50.11:580][590]LogContentValidation: Display: /Script/Blutility.EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport を検証しています
+[2026.02.06-11.52.33:119][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10012.809570
+[2026.02.06-11.52.33:418][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-11.52.33:418][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10013.075195, Update Interval: 322.160095
+[2026.02.06-11.53.42:279][897]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.42:350][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.06-11.53.43:051][913]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.43:123][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.06-11.53.43:646][924]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.43:720][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.06-11.53.44:142][932]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.44:215][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.06-11.53.44:508][936]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.44:582][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.06-11.53.44:751][937]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.44:823][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.06-11.53.44:883][937]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.44:949][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.06-11.53.46:713][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.53.46:799][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset" SILENT=true
+[2026.02.06-11.53.46:822][985]LogSavePackage: Moving output files for package: /Game/JSONExport/EUW_JSONExport
+[2026.02.06-11.53.46:822][985]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport45B8606944DBCCFD959BFF83FAD1547A.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset'
+[2026.02.06-11.53.46:832][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.76 sec)
+[2026.02.06-11.53.46:834][985]AssetCheck: New page: アセット保存：EUW_JSONExport
+[2026.02.06-11.53.46:834][985]LogContentValidation: Display: /Script/Blutility.EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport を検証しています
+[2026.02.06-11.53.47:520][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.53.47:578][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset" SILENT=true
+[2026.02.06-11.53.47:600][  6]LogSavePackage: Moving output files for package: /Game/JSONExport/EUW_JSONExport
+[2026.02.06-11.53.47:600][  6]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExportFD09C06B44C512DDD2E095B1717CD29C.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset'
+[2026.02.06-11.53.47:610][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.85 sec)
+[2026.02.06-11.53.47:611][  6]AssetCheck: New page: アセット保存：EUW_JSONExport
+[2026.02.06-11.53.47:611][  6]LogContentValidation: Display: /Script/Blutility.EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport を検証しています
+[2026.02.06-11.53.47:945][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.02.06-11.53.47:955][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.06-11.53.47:993][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/stage2_Auto5
+[2026.02.06-11.53.47:994][ 14]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2_Auto56798D881442FA24EC7EA9795892A931D.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto5.umap'
+[2026.02.06-11.53.47:994][ 14]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto5.umap is in the /Temp path, will not scan.
+[2026.02.06-11.53.47:994][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.067
+[2026.02.06-11.53.47:994][ 14]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2026.02.06-11.53.49:699][ 65]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.06-11.53.49:774][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.06-11.54.30:108][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-11.54.30:158][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.06-11.54.30:186][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.06-11.54.30:226][267]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.06-11.54.30:226][267]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2854B385943473BFE493413BB74370432.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.06-11.54.30:235][267]LogFileHelpers: Saving map 'stage2' took 0.077
+[2026.02.06-11.54.30:243][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.98 sec)
+[2026.02.06-11.54.30:244][267]AssetCheck: New page: アセット保存：stage2
+[2026.02.06-11.54.30:244][267]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.06-11.54.37:461][392]LogAutomationController: Ignoring very large delta of 3.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.06-11.54.55:356][928]LogScript: Error: Script Msg: Traceback (most recent call last):
+
+  File "<string>", line 5, in <module>
+
+PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
+
+[2026.02.06-11.54.55:356][928]LogScript: Error: Script call stack:
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.ExecuteUbergraph_EUW_JSONExport <---
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.BndEvt__EUW_test_Button_0_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature
+
+[2026.02.06-11.55.01:341][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.06-11.55.10:905][240]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Map_Goepon/Goeponmap/" -install="D:/Map_Goepon/Goeponmap/JSONExport.zip"" -nocompile -nocompileuat ]
+[2026.02.06-11.55.10:990][241]LogAutomationController: Ignoring very large delta of 5.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.06-11.55.11:022][242]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Running AutomationTool...
+[2026.02.06-11.55.11:074][244]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Using bundled DotNet SDK version: 6.0.302
+[2026.02.06-11.55.11:243][249]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Starting AutomationTool...
+[2026.02.06-11.55.11:274][250]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=D:/Map_Goepon/Goeponmap/ -install=D:/Map_Goepon/Goeponmap/JSONExport.zip -nocompile -nocompileuat
+[2026.02.06-11.55.11:359][252]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Initializing script modules...
+[2026.02.06-11.55.11:902][269]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Total script module initialization time: 0.54 s.
+[2026.02.06-11.55.12:632][291]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Executing commands...
+[2026.02.06-11.55.12:632][291]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Started zipping project up
+[2026.02.06-11.55.12:632][291]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Project directory: D:\Map_Goepon\Goeponmap
+[2026.02.06-11.55.12:632][291]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Install directory: D:/Map_Goepon/Goeponmap/JSONExport.zip
+[2026.02.06-11.55.12:632][291]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Packaging up the project...
+[2026.02.06-11.55.15:144][366]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Completed zipping project up
+[2026.02.06-11.55.15:144][366]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): BUILD SUCCESSFUL
+[2026.02.06-11.55.15:144][366]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): AutomationTool executed for 0h 0m 3s
+[2026.02.06-11.55.15:144][366]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
