@@ -1412,3 +1412,1113 @@ PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
 [2026.02.12-06.59.15:856][ 37]AssetCheck: New page: アセット保存：複数のアセット
 [2026.02.12-06.59.15:856][ 37]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/JSONExport/SPlacement.SPlacement を検証しています
 [2026.02.12-06.59.15:856][ 37]LogContentValidation: Display: /Script/Blutility.EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport を検証しています
+[2026.02.12-07.02.27:001][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5400.240234
+[2026.02.12-07.02.27:336][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.02.27:336][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5400.541504, Update Interval: 313.055817
+[2026.02.12-07.08.25:775][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5758.566895
+[2026.02.12-07.08.26:076][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.08.26:077][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5758.835449, Update Interval: 336.230347
+[2026.02.12-07.08.52:684][288]LogViewport: Scene viewport resized to 1388x419, mode Windowed.
+[2026.02.12-07.08.52:719][289]LogViewport: Scene viewport resized to 1388x446, mode Windowed.
+[2026.02.12-07.08.52:752][290]LogViewport: Scene viewport resized to 1388x479, mode Windowed.
+[2026.02.12-07.08.52:785][291]LogViewport: Scene viewport resized to 1388x529, mode Windowed.
+[2026.02.12-07.08.52:819][292]LogViewport: Scene viewport resized to 1388x582, mode Windowed.
+[2026.02.12-07.08.52:851][293]LogViewport: Scene viewport resized to 1388x617, mode Windowed.
+[2026.02.12-07.08.52:885][294]LogViewport: Scene viewport resized to 1388x633, mode Windowed.
+[2026.02.12-07.08.52:918][295]LogViewport: Scene viewport resized to 1388x635, mode Windowed.
+[2026.02.12-07.08.53:051][299]LogViewport: Scene viewport resized to 1388x636, mode Windowed.
+[2026.02.12-07.08.53:085][300]LogViewport: Scene viewport resized to 1388x644, mode Windowed.
+[2026.02.12-07.08.53:119][301]LogViewport: Scene viewport resized to 1388x647, mode Windowed.
+[2026.02.12-07.08.53:152][302]LogViewport: Scene viewport resized to 1388x656, mode Windowed.
+[2026.02.12-07.08.53:184][303]LogViewport: Scene viewport resized to 1388x657, mode Windowed.
+[2026.02.12-07.08.53:219][304]LogViewport: Scene viewport resized to 1388x660, mode Windowed.
+[2026.02.12-07.08.53:252][305]LogViewport: Scene viewport resized to 1388x663, mode Windowed.
+[2026.02.12-07.14.40:491][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6132.823730
+[2026.02.12-07.14.40:824][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.14.40:824][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6133.123535, Update Interval: 335.005341
+[2026.02.12-07.21.04:295][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6516.261230
+[2026.02.12-07.21.04:595][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.21.04:595][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6516.527832, Update Interval: 314.764252
+[2026.02.12-07.26.53:298][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6865.001953
+[2026.02.12-07.26.53:564][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.26.53:564][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6865.234863, Update Interval: 340.518799
+[2026.02.12-07.30.53:835][923]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.12-07.30.53:835][923]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.554e+07
+[2026.02.12-07.30.54:168][933]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.12-09.30.52 Remaining: 7200.19] Refresh[Expires: 2026-08-11T05:32:31.446Z Remaining: 15544899.45] State: Valid
+[2026.02.12-07.33.27:136][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7258.463379
+[2026.02.12-07.33.27:436][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.33.27:436][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7258.729004, Update Interval: 321.427643
+[2026.02.12-07.34.09:559][794]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1905 files in 2981 folders with total size 266 MiB.
+[2026.02.12-07.39.43:728][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7634.697754
+[2026.02.12-07.39.44:029][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.39.44:029][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7634.968262, Update Interval: 331.288177
+[2026.02.12-07.45.59:516][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8010.201172
+[2026.02.12-07.45.59:817][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.45.59:817][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8010.468262, Update Interval: 311.528687
+[2026.02.12-07.51.47:205][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8357.278320
+[2026.02.12-07.51.47:504][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.51.47:504][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8357.543945, Update Interval: 325.573303
+[2026.02.12-07.57.49:447][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8718.573242
+[2026.02.12-07.57.49:715][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-07.57.49:715][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8718.807617, Update Interval: 334.133728
+[2026.02.12-08.04.10:527][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9098.673828
+[2026.02.12-08.04.10:828][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.04.10:828][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9098.940430, Update Interval: 327.704712
+[2026.02.12-08.10.12:078][463]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2026.02.12-08.10.28:442][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9475.720703
+[2026.02.12-08.10.28:740][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.10.28:740][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9475.987305, Update Interval: 332.657867
+[2026.02.12-08.11.44:209][183]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.12-08.11.44:293][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.02.12-08.12.04:629][786]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-08.12.04:629][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-08.12.04:637][786]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-08.12.04:637][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-08.12.13:856][ 59]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport
+[2026.02.12-08.12.13:857][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-08.12.13:857][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-08.12.13:864][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-08.12.13:864][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-08.13.50:695][911]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.12-08.13.50:773][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.12-08.13.51:154][917]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.12-08.13.51:227][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.12-08.13.51:590][923]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.12-08.13.51:660][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.12-08.14.17:232][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.02.12-08.14.17:235][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.022
+[2026.02.12-08.14.17:236][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/JSONExport/SPlacement] ([1] browsable assets)...
+[2026.02.12-08.14.17:236][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/SPlacement]
+[2026.02.12-08.14.17:236][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/SPlacement_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-08.14.17:238][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/SPlacement_Auto6
+[2026.02.12-08.14.17:238][677]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacement_Auto6D3DF5041474D104C57E07D926DC3EB3D.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/SPlacement_Auto6.uasset'
+[2026.02.12-08.14.17:238][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JSONExport/EUW_JSONExport] ([2] browsable assets)...
+[2026.02.12-08.14.17:263][677]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport]
+[2026.02.12-08.14.17:263][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/JSONExport/EUW_JSONExport]
+[2026.02.12-08.14.17:263][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-08.14.17:289][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JSONExport/EUW_JSONExport_Auto6
+[2026.02.12-08.14.17:289][677]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport_Auto608B6E8094EF62839E148CBABC4825AEB.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/JSONExport/EUW_JSONExport_Auto6.uasset'
+[2026.02.12-08.14.17:290][677]LogFileHelpers: Auto-saving content packages took 0.054
+[2026.02.12-08.14.54:921][806]BlueprintLog: New page: EUW_JSONExport をコンパイル
+[2026.02.12-08.14.54:994][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.12-08.16.57:662][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9864.759766
+[2026.02.12-08.16.57:962][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.16.57:963][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9865.026367, Update Interval: 348.339478
+[2026.02.12-08.17.13:627][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-08.17.13:692][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-08.17.13:723][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.12-08.17.13:768][932]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.12-08.17.13:768][932]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2C15616F6418ED239A69632B0996C5530.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.12-08.17.13:777][932]LogFileHelpers: Saving map 'stage2' took 0.086
+[2026.02.12-08.17.13:786][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 761 ms)
+[2026.02.12-08.17.13:788][932]AssetCheck: New page: アセット保存：stage2
+[2026.02.12-08.17.13:788][932]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.12-08.17.34:723][488]LogScript: Error: Script Msg: Traceback (most recent call last):
+
+  File "<string>", line 5, in <module>
+
+PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
+
+[2026.02.12-08.17.34:723][488]LogScript: Error: Script call stack:
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.ExecuteUbergraph_EUW_JSONExport <---
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.BndEvt__EUW_test_Button_0_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature
+
+[2026.02.12-08.23.25:165][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10251.220703
+[2026.02.12-08.23.25:430][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.23.25:430][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10251.453125, Update Interval: 342.133850
+[2026.02.12-08.29.48:798][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10633.960938
+[2026.02.12-08.29.49:098][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.29.49:098][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10634.228516, Update Interval: 334.827728
+[2026.02.12-08.34.09:553][243]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1905 files in 2981 folders with total size 266 MiB.
+[2026.02.12-08.35.57:802][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11001.892578
+[2026.02.12-08.35.58:071][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.35.58:071][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11002.125977, Update Interval: 357.518860
+[2026.02.12-08.42.44:532][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11407.327148
+[2026.02.12-08.42.44:834][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.42.44:834][656]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11407.594727, Update Interval: 321.072418
+[2026.02.12-08.49.04:284][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11785.879883
+[2026.02.12-08.49.04:552][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.49.04:552][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11786.112305, Update Interval: 317.444977
+[2026.02.12-08.55.13:639][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12154.077148
+[2026.02.12-08.55.14:273][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-08.55.14:273][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12154.674805, Update Interval: 356.262695
+[2026.02.12-09.02.02:331][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12561.478516
+[2026.02.12-09.02.02:634][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.02.02:634][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12561.746094, Update Interval: 317.781921
+[2026.02.12-09.08.02:290][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12920.640625
+[2026.02.12-09.08.02:558][ 47]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.08.02:558][ 47]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12920.873047, Update Interval: 341.835388
+[2026.02.12-09.14.32:352][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13309.756836
+[2026.02.12-09.14.32:653][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.14.32:653][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13310.022461, Update Interval: 359.357269
+[2026.02.12-09.21.28:119][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13724.227539
+[2026.02.12-09.21.28:420][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.21.28:420][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13724.494141, Update Interval: 356.072266
+[2026.02.12-09.27.56:704][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14111.714844
+[2026.02.12-09.27.57:007][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.27.57:007][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14111.983398, Update Interval: 344.241455
+[2026.02.12-09.29.14:681][ 90]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.12-09.29.14:681][ 90]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2026.02.12-09.29.15:016][100]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.12-11.29.13 Remaining: 7200.10] Refresh[Expires: 2026-08-11T05:32:31.446Z Remaining: 15537798.45] State: Valid
+[2026.02.12-09.34.09:556][911]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1905 files in 2981 folders with total size 266 MiB.
+[2026.02.12-09.34.17:444][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14491.258789
+[2026.02.12-09.34.17:744][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.34.17:744][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14491.525391, Update Interval: 335.671875
+[2026.02.12-09.40.49:152][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14881.729492
+[2026.02.12-09.40.49:453][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.40.49:453][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14881.997070, Update Interval: 344.975739
+[2026.02.12-09.42.46:957][386]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.02.12-09.47.30:504][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15282.493164
+[2026.02.12-09.47.30:770][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.47.30:770][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15282.726562, Update Interval: 353.699158
+[2026.02.12-09.47.37:015][ 57]LogViewport: Scene viewport resized to 1388x657, mode Windowed.
+[2026.02.12-09.47.37:050][ 58]LogViewport: Scene viewport resized to 1388x630, mode Windowed.
+[2026.02.12-09.47.37:083][ 59]LogViewport: Scene viewport resized to 1388x593, mode Windowed.
+[2026.02.12-09.47.37:116][ 60]LogViewport: Scene viewport resized to 1388x569, mode Windowed.
+[2026.02.12-09.47.37:149][ 61]LogViewport: Scene viewport resized to 1388x542, mode Windowed.
+[2026.02.12-09.47.37:183][ 62]LogViewport: Scene viewport resized to 1388x518, mode Windowed.
+[2026.02.12-09.47.37:217][ 63]LogViewport: Scene viewport resized to 1388x501, mode Windowed.
+[2026.02.12-09.47.37:249][ 64]LogViewport: Scene viewport resized to 1388x495, mode Windowed.
+[2026.02.12-09.47.37:416][ 69]LogViewport: Scene viewport resized to 1388x500, mode Windowed.
+[2026.02.12-09.47.37:450][ 70]LogViewport: Scene viewport resized to 1388x515, mode Windowed.
+[2026.02.12-09.47.37:483][ 71]LogViewport: Scene viewport resized to 1388x563, mode Windowed.
+[2026.02.12-09.47.37:517][ 72]LogViewport: Scene viewport resized to 1388x607, mode Windowed.
+[2026.02.12-09.47.37:550][ 73]LogViewport: Scene viewport resized to 1388x625, mode Windowed.
+[2026.02.12-09.47.37:583][ 74]LogViewport: Scene viewport resized to 1388x641, mode Windowed.
+[2026.02.12-09.47.37:616][ 75]LogViewport: Scene viewport resized to 1388x647, mode Windowed.
+[2026.02.12-09.47.37:649][ 76]LogViewport: Scene viewport resized to 1388x650, mode Windowed.
+[2026.02.12-09.47.37:716][ 78]LogViewport: Scene viewport resized to 1388x663, mode Windowed.
+[2026.02.12-09.47.37:750][ 79]LogViewport: Scene viewport resized to 1388x669, mode Windowed.
+[2026.02.12-09.47.37:815][ 81]LogViewport: Scene viewport resized to 1388x674, mode Windowed.
+[2026.02.12-09.47.37:849][ 82]LogViewport: Scene viewport resized to 1388x678, mode Windowed.
+[2026.02.12-09.47.37:883][ 83]LogViewport: Scene viewport resized to 1388x685, mode Windowed.
+[2026.02.12-09.47.37:917][ 84]LogViewport: Scene viewport resized to 1388x690, mode Windowed.
+[2026.02.12-09.47.37:950][ 85]LogViewport: Scene viewport resized to 1388x693, mode Windowed.
+[2026.02.12-09.47.37:983][ 86]LogViewport: Scene viewport resized to 1388x703, mode Windowed.
+[2026.02.12-09.47.38:017][ 87]LogViewport: Scene viewport resized to 1388x707, mode Windowed.
+[2026.02.12-09.47.38:083][ 89]LogViewport: Scene viewport resized to 1388x715, mode Windowed.
+[2026.02.12-09.47.38:116][ 90]LogViewport: Scene viewport resized to 1388x728, mode Windowed.
+[2026.02.12-09.47.38:149][ 91]LogViewport: Scene viewport resized to 1388x735, mode Windowed.
+[2026.02.12-09.47.38:183][ 92]LogViewport: Scene viewport resized to 1388x747, mode Windowed.
+[2026.02.12-09.47.38:217][ 93]LogViewport: Scene viewport resized to 1388x757, mode Windowed.
+[2026.02.12-09.47.38:316][ 96]LogViewport: Scene viewport resized to 1388x758, mode Windowed.
+[2026.02.12-09.47.38:390][ 97]LogViewport: Scene viewport resized to 1388x753, mode Windowed.
+[2026.02.12-09.47.42:246][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2026.02.12-09.47.42:270][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-09.47.42:318][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/stage2_Auto7
+[2026.02.12-09.47.42:318][209]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2_Auto792D965274208D708DCA0C8B126C5083B.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto7.umap'
+[2026.02.12-09.47.42:319][209]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto7.umap is in the /Temp path, will not scan.
+[2026.02.12-09.47.42:319][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.132
+[2026.02.12-09.47.42:319][209]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2026.02.12-09.48.33:985][735]LogViewport: Scene viewport resized to 1388x746, mode Windowed.
+[2026.02.12-09.48.34:019][736]LogViewport: Scene viewport resized to 1388x724, mode Windowed.
+[2026.02.12-09.48.34:052][737]LogViewport: Scene viewport resized to 1388x685, mode Windowed.
+[2026.02.12-09.48.34:085][738]LogViewport: Scene viewport resized to 1388x649, mode Windowed.
+[2026.02.12-09.48.34:119][739]LogViewport: Scene viewport resized to 1388x614, mode Windowed.
+[2026.02.12-09.48.34:152][740]LogViewport: Scene viewport resized to 1388x588, mode Windowed.
+[2026.02.12-09.48.34:185][741]LogViewport: Scene viewport resized to 1388x548, mode Windowed.
+[2026.02.12-09.48.34:219][742]LogViewport: Scene viewport resized to 1388x519, mode Windowed.
+[2026.02.12-09.48.34:252][743]LogViewport: Scene viewport resized to 1388x493, mode Windowed.
+[2026.02.12-09.48.34:285][744]LogViewport: Scene viewport resized to 1388x474, mode Windowed.
+[2026.02.12-09.48.34:319][745]LogViewport: Scene viewport resized to 1388x467, mode Windowed.
+[2026.02.12-09.48.34:352][746]LogViewport: Scene viewport resized to 1388x462, mode Windowed.
+[2026.02.12-09.48.34:385][747]LogViewport: Scene viewport resized to 1388x450, mode Windowed.
+[2026.02.12-09.48.34:418][748]LogViewport: Scene viewport resized to 1388x444, mode Windowed.
+[2026.02.12-09.48.34:452][749]LogViewport: Scene viewport resized to 1388x442, mode Windowed.
+[2026.02.12-09.48.34:518][751]LogViewport: Scene viewport resized to 1388x440, mode Windowed.
+[2026.02.12-09.48.34:553][752]LogViewport: Scene viewport resized to 1388x439, mode Windowed.
+[2026.02.12-09.53.55:071][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15666.396484
+[2026.02.12-09.53.55:338][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.53.55:338][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15666.630859, Update Interval: 301.082184
+[2026.02.12-09.57.07:600][ 52]LogViewport: Scene viewport resized to 1388x452, mode Windowed.
+[2026.02.12-09.57.07:634][ 53]LogViewport: Scene viewport resized to 1388x465, mode Windowed.
+[2026.02.12-09.57.07:667][ 54]LogViewport: Scene viewport resized to 1388x474, mode Windowed.
+[2026.02.12-09.57.07:700][ 55]LogViewport: Scene viewport resized to 1388x478, mode Windowed.
+[2026.02.12-09.57.07:733][ 56]LogViewport: Scene viewport resized to 1388x492, mode Windowed.
+[2026.02.12-09.57.07:767][ 57]LogViewport: Scene viewport resized to 1388x505, mode Windowed.
+[2026.02.12-09.57.07:801][ 58]LogViewport: Scene viewport resized to 1388x509, mode Windowed.
+[2026.02.12-09.57.46:730][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.12-09.57.46:735][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-09.57.46:775][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/stage2_Auto8
+[2026.02.12-09.57.46:775][213]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage2_Auto87B001C814A11C94D0A9105A7838D2D2D.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto8.umap'
+[2026.02.12-09.57.46:776][213]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/stage2_Auto8.umap is in the /Temp path, will not scan.
+[2026.02.12-09.57.46:776][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/stage2' took 0.061
+[2026.02.12-09.57.46:776][213]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2026.02.12-09.59.24:371][130]LogViewport: Scene viewport resized to 1388x517, mode Windowed.
+[2026.02.12-09.59.24:406][131]LogViewport: Scene viewport resized to 1388x558, mode Windowed.
+[2026.02.12-09.59.24:438][132]LogViewport: Scene viewport resized to 1388x598, mode Windowed.
+[2026.02.12-09.59.24:471][133]LogViewport: Scene viewport resized to 1388x646, mode Windowed.
+[2026.02.12-09.59.24:505][134]LogViewport: Scene viewport resized to 1388x669, mode Windowed.
+[2026.02.12-09.59.24:538][135]LogViewport: Scene viewport resized to 1388x673, mode Windowed.
+[2026.02.12-09.59.24:604][137]LogViewport: Scene viewport resized to 1388x683, mode Windowed.
+[2026.02.12-09.59.24:638][138]LogViewport: Scene viewport resized to 1388x694, mode Windowed.
+[2026.02.12-09.59.24:837][144]LogViewport: Scene viewport resized to 1388x689, mode Windowed.
+[2026.02.12-09.59.24:872][145]LogViewport: Scene viewport resized to 1388x656, mode Windowed.
+[2026.02.12-09.59.24:905][146]LogViewport: Scene viewport resized to 1388x587, mode Windowed.
+[2026.02.12-09.59.24:939][147]LogViewport: Scene viewport resized to 1388x535, mode Windowed.
+[2026.02.12-09.59.24:971][148]LogViewport: Scene viewport resized to 1388x513, mode Windowed.
+[2026.02.12-09.59.25:004][149]LogViewport: Scene viewport resized to 1388x503, mode Windowed.
+[2026.02.12-09.59.25:039][150]LogViewport: Scene viewport resized to 1388x494, mode Windowed.
+[2026.02.12-09.59.25:072][151]LogViewport: Scene viewport resized to 1388x487, mode Windowed.
+[2026.02.12-09.59.25:205][155]LogViewport: Scene viewport resized to 1388x486, mode Windowed.
+[2026.02.12-09.59.29:713][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-09.59.29:764][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-09.59.29:792][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.12-09.59.29:831][290]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.12-09.59.29:831][290]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage237891997487F5B65A1689883D36708C6.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.12-09.59.29:841][290]LogFileHelpers: Saving map 'stage2' took 0.077
+[2026.02.12-09.59.29:848][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 897 ms)
+[2026.02.12-09.59.29:851][290]AssetCheck: New page: アセット保存：stage2
+[2026.02.12-09.59.29:851][290]LogContentValidation: Display: /Script/Engine.World /Game/stage2.stage2 を検証しています
+[2026.02.12-09.59.39:974][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16010.516602
+[2026.02.12-09.59.40:608][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-09.59.40:608][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16011.115234, Update Interval: 303.274017
+[2026.02.12-10.05.37:452][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16366.919922
+[2026.02.12-10.05.37:718][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.05.37:718][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16367.152344, Update Interval: 307.274994
+[2026.02.12-10.11.18:281][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16706.500000
+[2026.02.12-10.11.18:581][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.11.18:581][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16706.765625, Update Interval: 346.383850
+[2026.02.12-10.15.56:793][847]LogViewport: Scene viewport resized to 1388x487, mode Windowed.
+[2026.02.12-10.15.56:827][848]LogViewport: Scene viewport resized to 1388x492, mode Windowed.
+[2026.02.12-10.15.56:861][849]LogViewport: Scene viewport resized to 1388x501, mode Windowed.
+[2026.02.12-10.15.56:895][850]LogViewport: Scene viewport resized to 1388x511, mode Windowed.
+[2026.02.12-10.15.56:928][851]LogViewport: Scene viewport resized to 1388x522, mode Windowed.
+[2026.02.12-10.15.56:961][852]LogViewport: Scene viewport resized to 1388x534, mode Windowed.
+[2026.02.12-10.15.56:995][853]LogViewport: Scene viewport resized to 1388x542, mode Windowed.
+[2026.02.12-10.15.57:028][854]LogViewport: Scene viewport resized to 1388x543, mode Windowed.
+[2026.02.12-10.15.57:062][855]LogViewport: Scene viewport resized to 1388x545, mode Windowed.
+[2026.02.12-10.15.57:095][856]LogViewport: Scene viewport resized to 1388x548, mode Windowed.
+[2026.02.12-10.15.57:327][863]LogViewport: Scene viewport resized to 1388x545, mode Windowed.
+[2026.02.12-10.15.57:361][864]LogViewport: Scene viewport resized to 1388x542, mode Windowed.
+[2026.02.12-10.15.57:394][865]LogViewport: Scene viewport resized to 1388x541, mode Windowed.
+[2026.02.12-10.15.57:427][866]LogViewport: Scene viewport resized to 1388x538, mode Windowed.
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: ================================================
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: Total job queries 66, among them cache hits 42 (63.64%)
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 16 distinct outputs (66.67%)
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: RAM used: 487.31 KiB of 819.20 MiB budget. Usage: 0.06%
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.02.12-10.16.05:485][ 94]LogShaderCompilers: Display: ================================================
+[2026.02.12-10.16.14:459][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1
+[2026.02.12-10.16.14:460][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1
+[2026.02.12-10.16.14:461][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_192
+[2026.02.12-10.16.14:918][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1
+[2026.02.12-10.16.14:918][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1
+[2026.02.12-10.16.14:921][368]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_stage_LV1.SM_stage_LV1 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_194
+[2026.02.12-10.16.31:689][868]Cmd: DELETE
+[2026.02.12-10.16.31:690][868]Cmd: ACTOR DELETE
+[2026.02.12-10.16.31:709][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.16.31:726][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.02.12-10.16.31:729][868]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.02.12-10.16.46:372][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149
+[2026.02.12-10.16.46:372][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149
+[2026.02.12-10.16.46:373][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_195
+[2026.02.12-10.16.46:821][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149
+[2026.02.12-10.16.46:821][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149
+[2026.02.12-10.16.46:822][310]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_196
+[2026.02.12-10.16.49:904][400]Cmd: DELETE
+[2026.02.12-10.16.49:904][400]Cmd: ACTOR DELETE
+[2026.02.12-10.16.49:908][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.16.49:924][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.12-10.16.49:927][400]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.12-10.17.10:456][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.17.10:457][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.17.10:457][  6]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_197
+[2026.02.12-10.17.10:951][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.17.10:951][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.17.10:953][ 21]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_198
+[2026.02.12-10.17.35:868][754]Cmd: DELETE
+[2026.02.12-10.17.35:868][754]Cmd: ACTOR DELETE
+[2026.02.12-10.17.35:871][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.17.35:888][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-10.17.35:892][754]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-10.17.45:886][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.17.45:921][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.17.45:958][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.17.57:411][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor2.SM_12floor2
+[2026.02.12-10.17.57:411][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor2.SM_12floor2
+[2026.02.12-10.17.57:411][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_199
+[2026.02.12-10.17.57:524][399]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17104.615234
+[2026.02.12-10.17.57:790][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.17.57:790][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17104.847656, Update Interval: 347.705933
+[2026.02.12-10.17.57:826][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor2.SM_12floor2
+[2026.02.12-10.17.57:826][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor2.SM_12floor2
+[2026.02.12-10.17.57:827][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/stage2.stage2:PersistentLevel.StaticMeshActor_200
+[2026.02.12-10.18.00:332][480]Cmd: DELETE
+[2026.02.12-10.18.00:332][480]Cmd: ACTOR DELETE
+[2026.02.12-10.18.00:334][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.18.00:349][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.12-10.18.00:351][480]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.12-10.18.08:523][721]LogStaticMesh: Display: スタティックメッシュ SM_syouji2 をビルド中...
+[2026.02.12-10.18.08:555][721]LogStaticMesh: Built static mesh [0.03s] /Game/SM_syouji2.SM_syouji2
+[2026.02.12-10.18.10:941][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.18.10:989][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/SM_12floor2" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_12floor2.uasset" SILENT=true
+[2026.02.12-10.18.10:993][780]LogSavePackage: Moving output files for package: /Game/GoeponMap/SM_12floor2
+[2026.02.12-10.18.10:994][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_12floor25B42D1B54113C9F51FF8F591A5D09774.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_12floor2.uasset'
+[2026.02.12-10.18.10:997][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_12floor2" FILE="D:/Map_Goepon/Goeponmap/Content/SM_12floor2.uasset" SILENT=true
+[2026.02.12-10.18.10:997][780]LogSavePackage: Moving output files for package: /Game/SM_12floor2
+[2026.02.12-10.18.10:997][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_12floor2B49A9DC3498627CF969A898B131E92B2.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_12floor2.uasset'
+[2026.02.12-10.18.10:998][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/SM_MERGED_StaticMeshActor_149" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_MERGED_StaticMeshActor_149.uasset" SILENT=true
+[2026.02.12-10.18.11:007][780]LogSavePackage: Moving output files for package: /Game/GoeponMap/SM_MERGED_StaticMeshActor_149
+[2026.02.12-10.18.11:007][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_MERGED_StaticMeshActor_149DE13985D42880184D708468422C4CF19.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_MERGED_StaticMeshActor_149.uasset'
+[2026.02.12-10.18.11:007][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/SM_stage_arufa" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_stage_arufa.uasset" SILENT=true
+[2026.02.12-10.18.11:039][780]LogSavePackage: Moving output files for package: /Game/GoeponMap/SM_stage_arufa
+[2026.02.12-10.18.11:039][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_stage_arufa2C6F18884D2D7762F8D07F8588CF4C03.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_stage_arufa.uasset'
+[2026.02.12-10.18.11:040][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_stage_arufa" FILE="D:/Map_Goepon/Goeponmap/Content/SM_stage_arufa.uasset" SILENT=true
+[2026.02.12-10.18.11:041][780]LogSavePackage: Moving output files for package: /Game/SM_stage_arufa
+[2026.02.12-10.18.11:041][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_stage_arufa96681FFE499B78A196B70D8B4E869219.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_stage_arufa.uasset'
+[2026.02.12-10.18.11:041][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/SM_Stage_BGcheck" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_Stage_BGcheck.uasset" SILENT=true
+[2026.02.12-10.18.11:193][780]LogSavePackage: Moving output files for package: /Game/GoeponMap/SM_Stage_BGcheck
+[2026.02.12-10.18.11:193][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_Stage_BGcheck5986A068418E983B197C89B2FB72A60E.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_Stage_BGcheck.uasset'
+[2026.02.12-10.18.11:193][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Stage_BGcheck" FILE="D:/Map_Goepon/Goeponmap/Content/SM_Stage_BGcheck.uasset" SILENT=true
+[2026.02.12-10.18.11:194][780]LogSavePackage: Moving output files for package: /Game/SM_Stage_BGcheck
+[2026.02.12-10.18.11:194][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_Stage_BGcheckF70D05BB41BEC83E320146AC3A563A1D.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_Stage_BGcheck.uasset'
+[2026.02.12-10.18.11:195][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/SM_syouji2" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_syouji2.uasset" SILENT=true
+[2026.02.12-10.18.11:197][780]LogSavePackage: Moving output files for package: /Game/GoeponMap/SM_syouji2
+[2026.02.12-10.18.11:197][780]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_syouji20E210E374D3000AD75F49993E5189A97.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/SM_syouji2.uasset'
+[2026.02.12-10.18.11:207][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 1.16 sec)
+[2026.02.12-10.18.11:240][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.18.11:257][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-10.18.11:270][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.12-10.18.11:341][780]AssetCheck: New page: アセット保存：複数のアセット
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2 を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/SM_12floor2.SM_12floor2 を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/SM_MERGED_StaticMeshActor_149.SM_MERGED_StaticMeshActor_149 を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/SM_stage_arufa.SM_stage_arufa を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/SM_stage_arufa.SM_stage_arufa を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/SM_Stage_BGcheck.SM_Stage_BGcheck を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/SM_Stage_BGcheck.SM_Stage_BGcheck を検証しています
+[2026.02.12-10.18.11:341][780]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/SM_syouji2.SM_syouji2 を検証しています
+[2026.02.12-10.18.14:085][861]LogSlate: Window '名前変更に失敗しました' being destroyed
+[2026.02.12-10.18.18:517][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.18.18:575][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoeponMap/Treasure" FILE="D:/Map_Goepon/Goeponmap/Content/GoeponMap/Treasure.uasset" SILENT=true
+[2026.02.12-10.18.18:578][969]LogSavePackage: Moving output files for package: /Game/GoeponMap/Treasure
+[2026.02.12-10.18.18:578][969]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/Treasure2E39F8BC4BFFCF0B372EC6B2FAB8867A.tmp' to 'D:/Map_Goepon/Goeponmap/Content/GoeponMap/Treasure.uasset'
+[2026.02.12-10.18.18:581][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Treasure" FILE="D:/Map_Goepon/Goeponmap/Content/Treasure.uasset" SILENT=true
+[2026.02.12-10.18.18:582][969]LogSavePackage: Moving output files for package: /Game/Treasure
+[2026.02.12-10.18.18:582][969]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/TreasureA71147574A59898ABC34929B935E2DB0.tmp' to 'D:/Map_Goepon/Goeponmap/Content/Treasure.uasset'
+[2026.02.12-10.18.18:590][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.23 sec)
+[2026.02.12-10.18.18:603][969]AssetCheck: New page: アセット保存：複数のアセット
+[2026.02.12-10.18.18:603][969]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/GoeponMap/Treasure.Treasure を検証しています
+[2026.02.12-10.18.18:603][969]LogContentValidation: Display: /Script/CoreUObject.ObjectRedirector /Game/Treasure.Treasure を検証しています
+[2026.02.12-10.18.45:060][667]LogSlate: Window '新規レベル' being destroyed
+[2026.02.12-10.18.46:651][667]LogSlate: Window 'コンテンツを保存' being destroyed
+[2026.02.12-10.18.46:662][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.18.46:723][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stage2" FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-10.18.46:753][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.12-10.18.46:796][667]LogSavePackage: Moving output files for package: /Game/stage2
+[2026.02.12-10.18.46:796][667]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/stage216696C2945B84FDBB76ABCBF13AE9A81.tmp' to 'D:/Map_Goepon/Goeponmap/Content/stage2.umap'
+[2026.02.12-10.18.46:805][667]LogFileHelpers: Saving map 'stage2' took 0.081
+[2026.02.12-10.18.46:813][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.38 sec)
+[2026.02.12-10.18.46:813][667]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.18.46:819][667]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.18.46:834][667]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2026.02.12-10.18.46:865][667]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.18.46:865][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.18.46:866][667]MapCheck: New page: マップをチェック
+[2026.02.12-10.18.46:866][667]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.18.46:881][667]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.18.46:899][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.12-10.18.46:981][667]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.02.12-10.18.46:981][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.18.46:981][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.18.46:981][667]LogAIModule: Creating AISystem for world Untitled_1
+[2026.02.12-10.18.47:063][667]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.18.47:097][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.12-10.18.47:098][667]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.18.47:098][667]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.088ミリ秒かかりました。
+[2026.02.12-10.18.47:103][667]AssetCheck: New page: アセット保存：stage2
+[2026.02.12-10.18.59:102][ 23]Cmd: DELETE
+[2026.02.12-10.18.59:102][ 23]Cmd: ACTOR DELETE
+[2026.02.12-10.18.59:105][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.18.59:122][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.12-10.18.59:123][ 23]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.12-10.19.11:975][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.19.11:975][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.19.11:975][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2 as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2026.02.12-10.19.12:204][410]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.19.12:204][410]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2
+[2026.02.12-10.19.12:205][410]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_3room2.SM_3room2 as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_2
+[2026.02.12-10.19.34:094][ 64]Cmd: TRANSACTION UNDO
+[2026.02.12-10.19.34:095][ 64]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.19.40:206][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.12-10.19.40:211][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.19.55:805][240]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2026.02.12-10.19.55:820][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-10.19.55:848][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.12-10.19.55:854][240]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.12-10.19.55:855][240]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB816CCED24E9C33A3A5A9628683870068.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.12-10.19.55:863][240]LogFileHelpers: Saving map 'StagepreB' took 0.047
+[2026.02.12-10.19.55:863][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/SPlacement" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset" SILENT=true
+[2026.02.12-10.19.55:865][240]LogSavePackage: Moving output files for package: /Game/JSONExport/SPlacement
+[2026.02.12-10.19.55:865][240]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SPlacement80A6262D4ABEDBA63783C48FE43FE4DD.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/SPlacement.uasset'
+[2026.02.12-10.19.55:890][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JSONExport/EUW_JSONExport" FILE="D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset" SILENT=true
+[2026.02.12-10.19.55:916][240]LogSavePackage: Moving output files for package: /Game/JSONExport/EUW_JSONExport
+[2026.02.12-10.19.55:916][240]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/EUW_JSONExport06E7EFE84E6C716B5AC6E5B39DC87D09.tmp' to 'D:/Map_Goepon/Goeponmap/Content/JSONExport/EUW_JSONExport.uasset'
+[2026.02.12-10.19.55:921][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.7 sec (total: 17.0 sec)
+[2026.02.12-10.19.55:926][240]AssetCheck: New page: アセット保存：複数のアセット
+[2026.02.12-10.19.55:926][240]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.12-10.19.55:926][240]LogContentValidation: Display: /Script/Engine.UserDefinedStruct /Game/JSONExport/SPlacement.SPlacement を検証しています
+[2026.02.12-10.19.55:926][240]LogContentValidation: Display: /Script/Blutility.EditorUtilityWidgetBlueprint /Game/JSONExport/EUW_JSONExport.EUW_JSONExport を検証しています
+[2026.02.12-10.20.08:552][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.20.08:620][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.20.08:629][614]LogAssetEditorSubsystem: Opening Asset editor for World /Game/stage2.stage2
+[2026.02.12-10.20.08:629][614]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.20.08:629][614]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.20.08:629][614]LoadErrors: New page: マップをロード中: stage2.umap
+[2026.02.12-10.20.08:645][614]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.20.08:645][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.20.08:645][614]MapCheck: New page: マップをチェック
+[2026.02.12-10.20.08:645][614]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.20.08:663][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.20.08:665][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.12-10.20.08:668][614]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.20.08:669][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.20.08:684][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.12-10.20.08:701][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.02.12-10.20.08:713][614]LogAudio: Display: Audio Device (ID: 1) registered with world 'stage2'.
+[2026.02.12-10.20.08:713][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.20.08:714][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.20.08:714][614]LogAIModule: Creating AISystem for world stage2
+[2026.02.12-10.20.08:799][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.20.08:835][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-10.20.08:841][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.20.08:841][614]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.086ミリ秒かかりました。
+[2026.02.12-10.20.29:118][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.12-10.20.29:174][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.20.29:175][215]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StagepreB.StagepreB
+[2026.02.12-10.20.29:175][215]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.20.29:175][215]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.20.29:175][215]LoadErrors: New page: マップをロード中: StagepreB.umap
+[2026.02.12-10.20.29:194][215]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.20.29:194][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.20.29:195][215]MapCheck: New page: マップをチェック
+[2026.02.12-10.20.29:195][215]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.20.29:208][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.20.29:213][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.12-10.20.29:215][215]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.20.29:216][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.20.29:231][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.12-10.20.29:247][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.12-10.20.29:251][215]LogAudio: Display: Audio Device (ID: 1) registered with world 'StagepreB'.
+[2026.02.12-10.20.29:251][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.20.29:251][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.20.29:251][215]LogAIModule: Creating AISystem for world StagepreB
+[2026.02.12-10.20.29:318][215]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.20.29:351][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.12-10.20.29:355][215]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.20.29:355][215]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.054ミリ秒かかりました。
+[2026.02.12-10.21.00:150][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.12-10.21.00:218][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.00:224][129]LogAssetEditorSubsystem: Opening Asset editor for World /Game/stage2.stage2
+[2026.02.12-10.21.00:224][129]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.21.00:224][129]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.21.00:224][129]LoadErrors: New page: マップをロード中: stage2.umap
+[2026.02.12-10.21.00:242][129]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.00:242][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.00:242][129]MapCheck: New page: マップをチェック
+[2026.02.12-10.21.00:242][129]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.21.00:258][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.21.00:260][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.12-10.21.00:262][129]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.00:263][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.00:278][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.12-10.21.00:291][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.12-10.21.00:303][129]LogAudio: Display: Audio Device (ID: 1) registered with world 'stage2'.
+[2026.02.12-10.21.00:303][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.00:303][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.21.00:304][129]LogAIModule: Creating AISystem for world stage2
+[2026.02.12-10.21.00:390][129]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.21.00:426][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-10.21.00:431][129]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.21.00:431][129]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.088ミリ秒かかりました。
+[2026.02.12-10.21.10:121][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.12-10.21.10:191][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.10:191][414]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StagepreB.StagepreB
+[2026.02.12-10.21.10:191][414]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.21.10:191][414]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.21.10:191][414]LoadErrors: New page: マップをロード中: StagepreB.umap
+[2026.02.12-10.21.10:211][414]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.10:211][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.10:211][414]MapCheck: New page: マップをチェック
+[2026.02.12-10.21.10:211][414]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.21.10:226][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.21.10:231][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.12-10.21.10:234][414]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.10:234][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.10:252][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.02.12-10.21.10:264][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.12-10.21.10:268][414]LogAudio: Display: Audio Device (ID: 1) registered with world 'StagepreB'.
+[2026.02.12-10.21.10:268][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.10:268][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.21.10:268][414]LogAIModule: Creating AISystem for world StagepreB
+[2026.02.12-10.21.10:335][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.21.10:365][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.12-10.21.10:368][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.21.10:368][414]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.059ミリ秒かかりました。
+[2026.02.12-10.21.14:718][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.12-10.21.14:784][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.14:790][541]LogAssetEditorSubsystem: Opening Asset editor for World /Game/stage2.stage2
+[2026.02.12-10.21.14:790][541]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.21.14:790][541]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.21.14:790][541]LoadErrors: New page: マップをロード中: stage2.umap
+[2026.02.12-10.21.14:806][541]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.14:806][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.14:806][541]MapCheck: New page: マップをチェック
+[2026.02.12-10.21.14:806][541]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.21.14:825][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.21.14:827][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.12-10.21.14:829][541]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.14:829][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.14:844][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.21.14:860][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.12-10.21.14:873][541]LogAudio: Display: Audio Device (ID: 1) registered with world 'stage2'.
+[2026.02.12-10.21.14:873][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.14:873][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.21.14:873][541]LogAIModule: Creating AISystem for world stage2
+[2026.02.12-10.21.14:960][541]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.21.14:996][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.21.15:002][541]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.21.15:002][541]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.084ミリ秒かかりました。
+[2026.02.12-10.21.21:125][720]Cmd: TRANSACTION UNDO
+[2026.02.12-10.21.21:125][720]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.21.27:404][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.02.12-10.21.27:474][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.27:475][898]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StagepreB.StagepreB
+[2026.02.12-10.21.27:475][898]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.21.27:475][898]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.21.27:475][898]LoadErrors: New page: マップをロード中: StagepreB.umap
+[2026.02.12-10.21.27:494][898]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.27:494][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.27:494][898]MapCheck: New page: マップをチェック
+[2026.02.12-10.21.27:494][898]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.21.27:511][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.21.27:517][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.12-10.21.27:519][898]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.21.27:519][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.21.27:533][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.12-10.21.27:545][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.12-10.21.27:549][898]LogAudio: Display: Audio Device (ID: 1) registered with world 'StagepreB'.
+[2026.02.12-10.21.27:549][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.21.27:549][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.21.27:549][898]LogAIModule: Creating AISystem for world StagepreB
+[2026.02.12-10.21.27:616][898]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.21.27:649][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.12-10.21.27:651][898]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.21.27:651][898]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.055ミリ秒かかりました。
+[2026.02.12-10.21.33:074][ 57]Cmd: TRANSACTION UNDO
+[2026.02.12-10.21.33:074][ 57]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.23.13:103][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.23.13:204][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.23.43:189][920]LogStaticMesh: Display: スタティックメッシュ SM_wood4 をビルド中...
+[2026.02.12-10.23.43:209][920]LogStaticMesh: Built static mesh [0.02s] /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.23.43:259][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.23.43:259][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.23.43:259][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_0
+[2026.02.12-10.23.43:836][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.23.43:836][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.23.43:838][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_3
+[2026.02.12-10.23.51:023][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.23.51:088][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-10.23.51:118][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.12-10.23.51:128][147]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.12-10.23.51:128][147]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB784A265947A755B5015EF58FC92C2FDA.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.12-10.23.51:136][147]LogFileHelpers: Saving map 'StagepreB' took 0.048
+[2026.02.12-10.23.51:144][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 17.2 sec)
+[2026.02.12-10.23.51:145][147]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.12-10.23.51:145][147]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.12-10.24.11:705][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.12-10.24.11:705][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.12-10.24.11:705][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_4
+[2026.02.12-10.24.12:608][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.12-10.24.12:608][712]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.12-10.24.12:609][712]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_5
+[2026.02.12-10.24.26:117][110]Cmd: TRANSACTION UNDO
+[2026.02.12-10.24.26:117][110]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.24.33:384][318]Cmd: TRANSACTION UNDO
+[2026.02.12-10.24.33:384][318]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.24.38:232][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17505.078125
+[2026.02.12-10.24.38:532][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.24.38:532][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17505.345703, Update Interval: 307.998291
+[2026.02.12-10.27.10:366][963]Cmd: TRANSACTION UNDO
+[2026.02.12-10.27.10:366][963]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.27.54:597][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.54:597][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.54:598][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_6
+[2026.02.12-10.27.56:448][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.56:448][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.56:449][314]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_7
+[2026.02.12-10.27.56:870][327]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.56:870][327]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck
+[2026.02.12-10.27.56:871][327]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wallcheck.SM_wallcheck as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_8
+[2026.02.12-10.28.03:980][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji
+[2026.02.12-10.28.03:980][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji
+[2026.02.12-10.28.03:982][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_9
+[2026.02.12-10.28.04:651][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji
+[2026.02.12-10.28.04:651][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji
+[2026.02.12-10.28.04:653][553]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_room3syouji.SM_room3syouji as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_10
+[2026.02.12-10.29.01:024][228]Cmd: DELETE
+[2026.02.12-10.29.01:024][228]Cmd: ACTOR DELETE
+[2026.02.12-10.29.01:026][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.29.01:043][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.12-10.29.01:047][228]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-10.29.23:928][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira
+[2026.02.12-10.29.23:928][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira
+[2026.02.12-10.29.23:928][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_11
+[2026.02.12-10.29.25:018][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira
+[2026.02.12-10.29.25:018][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira
+[2026.02.12-10.29.25:019][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_hasira.SM_hasira as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_12
+[2026.02.12-10.29.26:365][960]Cmd: DELETE
+[2026.02.12-10.29.26:365][960]Cmd: ACTOR DELETE
+[2026.02.12-10.29.26:367][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.29.26:384][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.12-10.29.26:387][960]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.12-10.29.33:895][183]Cmd: DELETE
+[2026.02.12-10.29.33:895][183]Cmd: ACTOR DELETE
+[2026.02.12-10.29.33:896][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.29.33:913][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.12-10.29.33:914][183]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.12-10.30.04:017][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-10.30.04:069][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-10.30.04:099][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.12-10.30.04:107][ 76]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.12-10.30.04:107][ 76]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBD571CCA84655255AA6BA908B86B3D863.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.12-10.30.04:115][ 76]LogFileHelpers: Saving map 'StagepreB' took 0.045
+[2026.02.12-10.30.04:123][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 17.3 sec)
+[2026.02.12-10.30.04:124][ 76]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.12-10.30.04:124][ 76]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.12-10.30.30:765][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.12-10.30.30:832][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.30.30:838][865]LogAssetEditorSubsystem: Opening Asset editor for World /Game/stage2.stage2
+[2026.02.12-10.30.30:838][865]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/stage2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.30.30:838][865]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.30.30:839][865]LoadErrors: New page: マップをロード中: stage2.umap
+[2026.02.12-10.30.30:856][865]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.30.30:856][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.30.30:856][865]MapCheck: New page: マップをチェック
+[2026.02.12-10.30.30:856][865]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.30.30:872][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.30.30:874][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.12-10.30.30:876][865]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.30.30:877][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.30.30:890][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.12-10.30.30:907][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.12-10.30.30:920][865]LogAudio: Display: Audio Device (ID: 1) registered with world 'stage2'.
+[2026.02.12-10.30.30:920][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.30.30:920][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.30.30:920][865]LogAIModule: Creating AISystem for world stage2
+[2026.02.12-10.30.31:008][865]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.30.31:042][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.12-10.30.31:048][865]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.30.31:048][865]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.087ミリ秒かかりました。
+[2026.02.12-10.30.31:279][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17857.443359
+[2026.02.12-10.30.31:579][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.30.31:579][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17857.708984, Update Interval: 345.358429
+[2026.02.12-10.31.01:522][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.12-10.31.01:574][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.31.01:575][762]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StagepreB.StagepreB
+[2026.02.12-10.31.01:575][762]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.12-10.31.01:575][762]LightingResults: New page: ライティングのビルド
+[2026.02.12-10.31.01:575][762]LoadErrors: New page: マップをロード中: StagepreB.umap
+[2026.02.12-10.31.01:595][762]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.31.01:595][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.31.01:595][762]MapCheck: New page: マップをチェック
+[2026.02.12-10.31.01:595][762]LightingResults: New page: <何も選択されていません>
+[2026.02.12-10.31.01:608][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-10.31.01:614][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.02.12-10.31.01:616][762]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-10.31.01:616][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-10.31.01:633][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.12-10.31.01:646][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.12-10.31.01:649][762]LogAudio: Display: Audio Device (ID: 1) registered with world 'StagepreB'.
+[2026.02.12-10.31.01:649][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.12-10.31.01:649][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.12-10.31.01:649][762]LogAIModule: Creating AISystem for world StagepreB
+[2026.02.12-10.31.01:715][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.12-10.31.01:749][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.31.01:752][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.12-10.31.01:752][762]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.059ミリ秒かかりました。
+[2026.02.12-10.31.20:890][329]Cmd: EDIT COPY
+[2026.02.12-10.31.21:290][341]Cmd: EDIT PASTE
+[2026.02.12-10.31.40:848][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.31.40:848][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.31.40:848][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_4
+[2026.02.12-10.31.46:984][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.31.46:984][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.31.46:985][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_6
+[2026.02.12-10.31.48:464][136]Cmd: DELETE
+[2026.02.12-10.31.48:464][136]Cmd: ACTOR DELETE
+[2026.02.12-10.31.48:466][136]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.31.48:479][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.31.48:483][136]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.12-10.31.58:544][437]Cmd: DELETE
+[2026.02.12-10.31.58:545][437]Cmd: ACTOR DELETE
+[2026.02.12-10.31.58:546][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.31.58:562][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.12-10.31.58:563][437]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.12-10.33.14:712][698]Cmd: TRANSACTION UNDO
+[2026.02.12-10.33.14:713][698]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.33.22:388][921]Cmd: TRANSACTION UNDO
+[2026.02.12-10.33.22:388][921]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.34.08:588][280]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1917 files in 3000 folders with total size 266 MiB.
+[2026.02.12-10.35.28:949][672]Cmd: EDIT COPY
+[2026.02.12-10.35.29:315][683]Cmd: EDIT PASTE
+[2026.02.12-10.36.03:510][696]Cmd: EDIT COPY
+[2026.02.12-10.36.03:810][705]Cmd: EDIT PASTE
+[2026.02.12-10.36.30:083][485]Cmd: TRANSACTION UNDO
+[2026.02.12-10.36.30:083][485]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.36.51:672][114]Cmd: EDIT COPY
+[2026.02.12-10.36.52:072][126]Cmd: EDIT PASTE
+[2026.02.12-10.36.54:185][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18239.410156
+[2026.02.12-10.36.54:484][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.36.54:484][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18239.675781, Update Interval: 333.939636
+[2026.02.12-10.37.35:720][416]Cmd: EDIT COPY
+[2026.02.12-10.37.36:153][429]Cmd: EDIT PASTE
+[2026.02.12-10.37.40:027][544]Cmd: DELETE
+[2026.02.12-10.37.40:027][544]Cmd: ACTOR DELETE
+[2026.02.12-10.37.40:029][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.37.40:047][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.02.12-10.37.40:051][544]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-10.38.14:078][550]Cmd: EDIT COPY
+[2026.02.12-10.38.14:445][561]Cmd: EDIT PASTE
+[2026.02.12-10.38.37:046][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.38.37:046][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.38.37:046][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_12
+[2026.02.12-10.38.37:509][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.38.37:509][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-10.38.37:510][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_13
+[2026.02.12-10.39.10:638][217]Cmd: DELETE
+[2026.02.12-10.39.10:638][217]Cmd: ACTOR DELETE
+[2026.02.12-10.39.10:639][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.39.10:656][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.02.12-10.39.10:659][217]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.12-10.39.12:837][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.39.12:837][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.39.12:838][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_14
+[2026.02.12-10.39.14:165][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.39.14:165][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-10.39.14:166][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_15
+[2026.02.12-10.40.50:309][162]Cmd: EDIT COPY
+[2026.02.12-10.40.50:643][172]Cmd: EDIT PASTE
+[2026.02.12-10.40.54:179][277]Cmd: TRANSACTION UNDO
+[2026.02.12-10.40.54:179][277]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.41.02:953][530]Cmd: EDIT COPY
+[2026.02.12-10.41.03:286][540]Cmd: EDIT PASTE
+[2026.02.12-10.41.10:236][743]Cmd: EDIT COPY
+[2026.02.12-10.41.10:503][751]Cmd: EDIT PASTE
+[2026.02.12-10.41.13:405][837]Cmd: EDIT COPY
+[2026.02.12-10.41.13:706][846]Cmd: EDIT PASTE
+[2026.02.12-10.41.18:844][999]Cmd: EDIT COPY
+[2026.02.12-10.41.19:178][  9]Cmd: EDIT PASTE
+[2026.02.12-10.43.32:873][679]LogSlate: Window 'マージしたアクタを作成' being destroyed
+[2026.02.12-10.43.32:943][679]LogStaticMesh: Display: スタティックメッシュ SM_rouka をビルド中...
+[2026.02.12-10.43.32:979][679]LogStaticMesh: Built static mesh [0.04s] /Game/SM_rouka.SM_rouka
+[2026.02.12-10.44.13:976][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18678.437500
+[2026.02.12-10.44.14:242][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.44.14:242][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18678.669922, Update Interval: 321.927551
+[2026.02.12-10.45.21:520][890]Cmd: TRANSACTION UNDO
+[2026.02.12-10.45.21:520][890]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.45.44:102][560]LogSlate: Window 'アクタをマージ' being destroyed
+[2026.02.12-10.45.44:110][560]LogSlate: Window 'アクタをマージ' being destroyed
+[2026.02.12-10.45.49:083][706]LogSlate: Window 'アクタをマージ' being destroyed
+[2026.02.12-10.45.49:089][706]LogSlate: Window 'アクタをマージ' being destroyed
+[2026.02.12-10.46.32:549][399]LogSlate: Window 'マージしたアクタを作成' being destroyed
+[2026.02.12-10.46.32:627][399]LogStaticMesh: Display: スタティックメッシュ SM_base をビルド中...
+[2026.02.12-10.46.32:688][401]LogStaticMesh: Built static mesh [0.06s] /Game/SM_base.SM_base
+[2026.02.12-10.46.50:734][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-10.46.50:734][936]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-10.46.50:735][936]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor.SM_12floor as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_21
+[2026.02.12-10.46.51:263][952]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-10.46.51:263][952]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-10.46.51:264][952]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor.SM_12floor as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_22
+[2026.02.12-10.46.53:311][ 11]Cmd: DELETE
+[2026.02.12-10.46.53:311][ 11]Cmd: ACTOR DELETE
+[2026.02.12-10.46.53:313][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.46.53:331][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.12-10.46.53:335][ 11]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-10.47.09:058][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-10.47.09:058][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-10.47.09:059][470]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_23
+[2026.02.12-10.47.09:389][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-10.47.09:389][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-10.47.09:390][480]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_24
+[2026.02.12-10.48.33:622][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.12-10.48.33:625][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-10.48.33:633][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto9
+[2026.02.12-10.48.33:633][974]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto9F49E0B3E4828F8E58369C0A257256EC3.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap'
+[2026.02.12-10.48.33:634][974]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap is in the /Temp path, will not scan.
+[2026.02.12-10.48.33:634][974]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StagepreB_Auto9 is in the /Temp path, will not scan.
+[2026.02.12-10.48.33:634][974]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StagepreB_Auto9 is in the /Temp path, will not scan.
+[2026.02.12-10.48.33:634][974]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.029
+[2026.02.12-10.48.33:634][974]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2026.02.12-10.48.33:634][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_rouka] ([1] browsable assets)...
+[2026.02.12-10.48.33:701][974]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_rouka.SM_rouka]
+[2026.02.12-10.48.33:701][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_rouka]
+[2026.02.12-10.48.33:701][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_rouka" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-10.48.33:705][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_rouka_Auto9
+[2026.02.12-10.48.33:705][974]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_rouka_Auto9C4F13F434D4C3ECCCFBCECB43A089412.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto9.uasset'
+[2026.02.12-10.48.33:705][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_base] ([1] browsable assets)...
+[2026.02.12-10.48.33:713][974]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_base.SM_base]
+[2026.02.12-10.48.33:713][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_base]
+[2026.02.12-10.48.33:714][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_base" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-10.48.33:721][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_base_Auto9
+[2026.02.12-10.48.33:721][974]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_base_Auto9807DE26B49147EBFEA87B6AD8A9AC11C.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto9.uasset'
+[2026.02.12-10.48.33:722][974]LogFileHelpers: Auto-saving content packages took 0.088
+[2026.02.12-10.50.33:798][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19057.558594
+[2026.02.12-10.50.34:098][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.50.34:098][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19057.824219, Update Interval: 307.157806
+[2026.02.12-10.53.56:580][655]Cmd: EDIT COPY
+[2026.02.12-10.53.56:913][665]Cmd: EDIT PASTE
+[2026.02.12-10.54.00:037][757]Cmd: TRANSACTION UNDO
+[2026.02.12-10.54.00:037][757]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.55.47:104][757]LogSlate: Window 'メッセージ' being destroyed
+[2026.02.12-10.55.47:111][757]Message dialog closed, result: Yes, title: メッセージ, text: SM_base は既に存在します。置換してもよろしいですか？
+[2026.02.12-10.55.47:111][757]LogSlate: Window 'マージしたアクタを作成' being destroyed
+[2026.02.12-10.55.47:193][757]LogStaticMesh: Display: スタティックメッシュ SM_base をビルド中...
+[2026.02.12-10.55.47:253][757]LogStaticMesh: Built static mesh [0.06s] /Game/SM_base.SM_base
+[2026.02.12-10.55.48:958][809]LogEditorViewport: Clicking Background
+[2026.02.12-10.56.37:783][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19420.710938
+[2026.02.12-10.56.38:050][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-10.56.38:050][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19420.943359, Update Interval: 322.533661
+[2026.02.12-10.57.39:118][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_base.SM_base
+[2026.02.12-10.57.39:118][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_base.SM_base
+[2026.02.12-10.57.39:118][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_base.SM_base as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_26
+[2026.02.12-10.57.39:381][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_base.SM_base
+[2026.02.12-10.57.39:381][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_base.SM_base
+[2026.02.12-10.57.39:382][106]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_base.SM_base as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_27
+[2026.02.12-10.57.57:102][624]Cmd: DELETE
+[2026.02.12-10.57.57:102][624]Cmd: ACTOR DELETE
+[2026.02.12-10.57.57:104][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.57.57:105][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.57.57:124][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.02.12-10.57.57:127][624]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2026.02.12-10.58.04:563][845]Cmd: TRANSACTION UNDO
+[2026.02.12-10.58.04:563][845]LogEditorTransaction: Undo 要素の移動
+[2026.02.12-10.58.28:860][563]Cmd: DELETE
+[2026.02.12-10.58.28:861][563]Cmd: ACTOR DELETE
+[2026.02.12-10.58.28:862][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-10.58.28:878][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-10.58.28:880][563]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.12-10.58.31:264][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_rouka.SM_rouka
+[2026.02.12-10.58.31:264][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_rouka.SM_rouka
+[2026.02.12-10.58.31:264][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_rouka.SM_rouka as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_28
+[2026.02.12-10.58.31:628][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_rouka.SM_rouka
+[2026.02.12-10.58.31:628][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_rouka.SM_rouka
+[2026.02.12-10.58.31:630][640]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_rouka.SM_rouka as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_29
+[2026.02.12-10.59.24:771][222]Cmd: EDIT COPY
+[2026.02.12-10.59.25:138][233]Cmd: EDIT PASTE
+[2026.02.12-11.00.06:305][454]Cmd: EDIT COPY
+[2026.02.12-11.00.06:673][465]Cmd: EDIT PASTE
+[2026.02.12-11.01.27:747][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.12-11.01.27:750][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-11.01.27:758][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto0
+[2026.02.12-11.01.27:758][877]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto0E73FB79C4E2AA441A762C6BC590CC505.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap'
+[2026.02.12-11.01.27:758][877]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap is in the /Temp path, will not scan.
+[2026.02.12-11.01.27:758][877]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StagepreB_Auto0 is in the /Temp path, will not scan.
+[2026.02.12-11.01.27:760][877]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StagepreB_Auto0 is in the /Temp path, will not scan.
+[2026.02.12-11.01.27:760][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.027
+[2026.02.12-11.01.27:760][877]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2026.02.12-11.01.27:760][877]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SM_rouka] ([1] browsable assets)...
+[2026.02.12-11.01.27:760][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_rouka]
+[2026.02.12-11.01.27:760][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_rouka" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-11.01.27:763][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_rouka_Auto0
+[2026.02.12-11.01.27:763][877]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_rouka_Auto0CEF2B775436BB45437A56BBEF2235100.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto0.uasset'
+[2026.02.12-11.01.27:763][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_base] ([1] browsable assets)...
+[2026.02.12-11.01.27:833][877]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_base.SM_base]
+[2026.02.12-11.01.27:833][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_base]
+[2026.02.12-11.01.27:833][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_base" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-11.01.27:841][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_base_Auto0
+[2026.02.12-11.01.27:841][877]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_base_Auto03F4C40B74D5AD5C5BA6B2BB63E408BCD.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto0.uasset'
+[2026.02.12-11.01.27:841][877]LogFileHelpers: Auto-saving content packages took 0.082
+[2026.02.12-11.02.45:008][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19787.339844
+[2026.02.12-11.02.45:308][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.02.45:308][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19787.605469, Update Interval: 311.006805
+[2026.02.12-11.04.16:658][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.12-11.04.16:658][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.12-11.04.16:658][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_32
+[2026.02.12-11.04.18:227][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.12-11.04.18:227][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.12-11.04.18:228][965]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_33
+[2026.02.12-11.04.19:844][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.04.19:845][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.04.19:845][  6]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_34
+[2026.02.12-11.04.20:550][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.04.20:550][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.04.20:551][ 27]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_35
+[2026.02.12-11.05.15:709][658]Cmd: EDIT COPY
+[2026.02.12-11.05.16:042][668]Cmd: EDIT PASTE
+[2026.02.12-11.05.58:430][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.12-11.05.58:430][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.12-11.05.58:430][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_37
+[2026.02.12-11.05.59:300][947]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.12-11.05.59:300][947]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.12-11.05.59:301][947]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_38
+[2026.02.12-11.08.28:118][357]Cmd: EDIT COPY
+[2026.02.12-11.08.28:118][357]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.02.12-11.08.28:418][366]Cmd: EDIT PASTE
+[2026.02.12-11.08.29:786][406]Cmd: TRANSACTION UNDO
+[2026.02.12-11.08.29:786][406]LogEditorTransaction: Undo 貼り付け
+[2026.02.12-11.08.33:547][510]Cmd: EDIT COPY
+[2026.02.12-11.08.33:813][518]Cmd: EDIT PASTE
+[2026.02.12-11.08.47:961][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20149.470703
+[2026.02.12-11.08.48:301][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.08.48:301][949]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20149.777344, Update Interval: 315.070038
+[2026.02.12-11.08.50:715][ 19]Cmd: EDIT COPY
+[2026.02.12-11.08.51:149][ 32]Cmd: EDIT PASTE
+[2026.02.12-11.09.16:393][788]Cmd: DELETE
+[2026.02.12-11.09.16:393][788]Cmd: ACTOR DELETE
+[2026.02.12-11.09.16:394][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-11.09.16:413][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.12-11.09.16:416][788]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-11.09.56:825][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.09.56:825][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.09.56:826][973]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_42
+[2026.02.12-11.09.58:363][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.09.58:363][ 19]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.09.58:364][ 19]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_43
+[2026.02.12-11.10.00:516][ 81]Cmd: DELETE
+[2026.02.12-11.10.00:516][ 81]Cmd: ACTOR DELETE
+[2026.02.12-11.10.00:518][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-11.10.00:532][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.12-11.10.00:534][ 81]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.12-11.10.02:840][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-11.10.02:840][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-11.10.02:841][147]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_44
+[2026.02.12-11.10.03:477][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-11.10.03:477][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4
+[2026.02.12-11.10.03:477][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_wood4.SM_wood4 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_45
+[2026.02.12-11.11.46:315][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.11.46:315][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.11.46:315][228]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_46
+[2026.02.12-11.11.47:061][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.11.47:061][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood
+[2026.02.12-11.11.47:061][250]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_yuka_wood.SM_yuka_wood as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_47
+[2026.02.12-11.12.09:320][911]Cmd: EDIT COPY
+[2026.02.12-11.12.09:620][920]Cmd: EDIT PASTE
+[2026.02.12-11.13.45:277][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.12-11.13.45:281][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-11.13.45:291][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto1
+[2026.02.12-11.13.45:291][756]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto11E98D7974B0134C2595DBEB48A68CC14.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap'
+[2026.02.12-11.13.45:292][756]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap is in the /Temp path, will not scan.
+[2026.02.12-11.13.45:292][756]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StagepreB_Auto1 is in the /Temp path, will not scan.
+[2026.02.12-11.13.45:292][756]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StagepreB_Auto1 is in the /Temp path, will not scan.
+[2026.02.12-11.13.45:292][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.028
+[2026.02.12-11.13.45:292][756]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2026.02.12-11.13.45:292][756]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SM_rouka] ([1] browsable assets)...
+[2026.02.12-11.13.45:292][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_rouka]
+[2026.02.12-11.13.45:292][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_rouka" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-11.13.45:295][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_rouka_Auto1
+[2026.02.12-11.13.45:295][756]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_rouka_Auto1258AE951472D09E5E74FBD866BDF20B4.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_rouka_Auto1.uasset'
+[2026.02.12-11.13.45:295][756]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SM_base] ([1] browsable assets)...
+[2026.02.12-11.13.45:295][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_base]
+[2026.02.12-11.13.45:295][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_base" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-11.13.45:303][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_base_Auto1
+[2026.02.12-11.13.45:303][756]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_base_Auto1D81A6B5E49E875CE435891B200E34712.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_base_Auto1.uasset'
+[2026.02.12-11.13.45:304][756]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.02.12-11.14.33:690][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20494.296875
+[2026.02.12-11.14.33:957][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.14.33:957][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20494.529297, Update Interval: 335.963013
+[2026.02.12-11.21.03:662][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20882.845703
+[2026.02.12-11.21.03:961][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.21.03:961][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20883.109375, Update Interval: 328.715485
+[2026.02.12-11.21.46:266][176]Cmd: EDIT COPY
+[2026.02.12-11.21.46:532][184]Cmd: EDIT PASTE
+[2026.02.12-11.23.16:280][831]Cmd: EDIT COPY
+[2026.02.12-11.23.16:613][841]Cmd: EDIT PASTE
+[2026.02.12-11.25.09:795][718]LogSlate: Window 'マージしたアクタを作成' being destroyed
+[2026.02.12-11.25.09:860][718]LogStaticMesh: Display: スタティックメッシュ SM_roukamini をビルド中...
+[2026.02.12-11.25.09:888][718]LogStaticMesh: Built static mesh [0.03s] /Game/SM_roukamini.SM_roukamini
+[2026.02.12-11.25.42:676][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-11.25.42:676][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-11.25.42:678][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor.SM_12floor as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_53
+[2026.02.12-11.25.43:141][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-11.25.43:141][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_12floor.SM_12floor
+[2026.02.12-11.25.43:142][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_12floor.SM_12floor as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_54
+[2026.02.12-11.25.44:759][742]Cmd: DELETE
+[2026.02.12-11.25.44:759][742]Cmd: ACTOR DELETE
+[2026.02.12-11.25.44:761][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.12-11.25.44:779][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.12-11.25.44:782][742]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.12-11.27.02:534][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.12-11.27.02:536][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-11.27.02:547][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto2
+[2026.02.12-11.27.02:547][ 62]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto29C9036CF40C9A56DAB7624BD10036B24.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap'
+[2026.02.12-11.27.02:548][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap is in the /Temp path, will not scan.
+[2026.02.12-11.27.02:548][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StagepreB_Auto2 is in the /Temp path, will not scan.
+[2026.02.12-11.27.02:548][ 62]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StagepreB_Auto2 is in the /Temp path, will not scan.
+[2026.02.12-11.27.02:548][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.030
+[2026.02.12-11.27.02:548][ 62]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2026.02.12-11.27.02:548][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_roukamini] ([1] browsable assets)...
+[2026.02.12-11.27.02:616][ 62]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_roukamini.SM_roukamini]
+[2026.02.12-11.27.02:616][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_roukamini]
+[2026.02.12-11.27.02:616][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_roukamini" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_roukamini_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.02.12-11.27.02:619][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_roukamini_Auto2
+[2026.02.12-11.27.02:619][ 62]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_roukamini_Auto20EDEB71749DAAE2CA977BCB94EC23218.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_roukamini_Auto2.uasset'
+[2026.02.12-11.27.02:620][ 62]LogFileHelpers: Auto-saving content packages took 0.072
+[2026.02.12-11.27.25:247][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21263.562500
+[2026.02.12-11.27.25:514][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.27.25:514][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21263.794922, Update Interval: 358.760345
+[2026.02.12-11.27.34:982][ 33]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.12-11.27.34:982][ 33]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2026.02.12-11.27.35:315][ 43]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.12-13.27.33 Remaining: 7200.48] Refresh[Expires: 2026-08-11T05:32:31.446Z Remaining: 15530698.45] State: Valid
+[2026.02.12-11.33.12:610][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-11.33.12:610][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-11.33.12:611][112]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_55
+[2026.02.12-11.33.13:140][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-11.33.13:140][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2
+[2026.02.12-11.33.13:141][128]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_12floor2.SM_12floor2 as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_56
+[2026.02.12-11.34.09:562][791]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1933 files in 3028 folders with total size 266 MiB.
+[2026.02.12-11.34.09:606][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21666.957031
+[2026.02.12-11.34.09:905][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.34.09:905][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21667.224609, Update Interval: 341.178009
+[2026.02.12-11.39.25:648][179]Cmd: EDIT COPY
+[2026.02.12-11.39.25:981][189]Cmd: EDIT PASTE
+[2026.02.12-11.40.43:995][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22060.406250
+[2026.02.12-11.40.44:295][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.40.44:296][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22060.671875, Update Interval: 302.587372
+[2026.02.12-11.40.51:775][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.12-11.40.51:780][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.12-11.40.51:790][731]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto3
+[2026.02.12-11.40.51:790][731]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto3104DE7AC4B7D6D8558BD33A92370F045.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap'
+[2026.02.12-11.40.51:791][731]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap is in the /Temp path, will not scan.
+[2026.02.12-11.40.51:791][731]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StagepreB_Auto3 is in the /Temp path, will not scan.
+[2026.02.12-11.40.51:791][731]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StagepreB_Auto3 is in the /Temp path, will not scan.
+[2026.02.12-11.40.51:791][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.033
+[2026.02.12-11.40.51:791][731]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.02.12-11.45.49:668][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.45.49:668][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.45.49:668][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_58
+[2026.02.12-11.45.50:064][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.45.50:064][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.12-11.45.50:065][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_59
+[2026.02.12-11.46.08:554][210]Cmd: EDIT COPY
+[2026.02.12-11.46.18:922][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22394.693359
+[2026.02.12-11.46.19:258][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-11.46.19:258][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22394.994141, Update Interval: 355.433197
+[2026.02.12-11.47.56:691][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.12-11.47.56:699][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-11.47.56:758][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.12-11.47.56:788][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.12-11.47.56:800][430]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.12-11.47.56:801][430]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBD342A82C42A6F2C189F6A196A33DA70F.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.12-11.47.56:810][430]LogFileHelpers: Saving map 'StagepreB' took 0.052
+[2026.02.12-11.47.56:810][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_rouka" FILE="D:/Map_Goepon/Goeponmap/Content/SM_rouka.uasset" SILENT=true
+[2026.02.12-11.47.56:813][430]LogSavePackage: Moving output files for package: /Game/SM_rouka
+[2026.02.12-11.47.56:813][430]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_rouka3F3235B5418B6CB57C4FB9A327EE3C80.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_rouka.uasset'
+[2026.02.12-11.47.56:815][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_base" FILE="D:/Map_Goepon/Goeponmap/Content/SM_base.uasset" SILENT=true
+[2026.02.12-11.47.56:823][430]LogSavePackage: Moving output files for package: /Game/SM_base
+[2026.02.12-11.47.56:823][430]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_base65A99FEF4033FA688D42C192502E90E3.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_base.uasset'
+[2026.02.12-11.47.56:824][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_roukamini" FILE="D:/Map_Goepon/Goeponmap/Content/SM_roukamini.uasset" SILENT=true
+[2026.02.12-11.47.56:827][430]LogSavePackage: Moving output files for package: /Game/SM_roukamini
+[2026.02.12-11.47.56:827][430]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_roukaminiD8CE21CC4DFFDD480B8301938FA93E14.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_roukamini.uasset'
+[2026.02.12-11.47.56:873][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 17.4 sec)
+[2026.02.12-11.47.56:878][430]AssetCheck: New page: アセット保存：複数のアセット
+[2026.02.12-11.47.56:879][430]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.12-11.47.56:879][430]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/SM_rouka.SM_rouka を検証しています
+[2026.02.12-11.47.56:879][430]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/SM_base.SM_base を検証しています
+[2026.02.12-11.47.56:879][430]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/SM_roukamini.SM_roukamini を検証しています
+[2026.02.12-11.49.26:651][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
