@@ -1722,3 +1722,1106 @@ PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
 [2026.02.18-03.03.05:291][ 24]LogViewport: Scene viewport resized to 1388x621, mode Windowed.
 [2026.02.18-03.03.05:324][ 25]LogViewport: Scene viewport resized to 1388x615, mode Windowed.
 [2026.02.18-03.03.10:853][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.18-03.03.36:604][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5444.778809
+[2026.02.18-03.03.36:903][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.03.36:904][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5445.044922, Update Interval: 336.244995
+[2026.02.18-03.04.23:302][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.18-03.04.23:353][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.18-03.04.23:359][360]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StagepreB.StagepreB
+[2026.02.18-03.04.23:359][360]Cmd: MAP LOAD FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-03.04.23:359][360]LightingResults: New page: ライティングのビルド
+[2026.02.18-03.04.23:359][360]LoadErrors: New page: マップをロード中: StagepreB.umap
+[2026.02.18-03.04.23:379][360]LogWorld: UWorld::CleanupWorld for stage2, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-03.04.23:379][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-03.04.23:379][360]MapCheck: New page: マップをチェック
+[2026.02.18-03.04.23:379][360]LightingResults: New page: <何も選択されていません>
+[2026.02.18-03.04.23:386][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-03.04.23:391][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.18-03.04.23:393][360]LogWorld: UWorld::CleanupWorld for StagepreB, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-03.04.23:394][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-03.04.23:399][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.18-03.04.23:404][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.18-03.04.23:415][360]LogAudio: Display: Audio Device (ID: 1) registered with world 'StagepreB'.
+[2026.02.18-03.04.23:415][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.18-03.04.23:415][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.02.18-03.04.23:416][360]LogAIModule: Creating AISystem for world StagepreB
+[2026.02.18-03.04.23:493][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-03.04.23:515][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.18-03.04.23:518][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-03.04.23:518][360]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.068ミリ秒かかりました。
+[2026.02.18-03.06.30:607][162]LogViewport: Scene viewport resized to 1388x621, mode Windowed.
+[2026.02.18-03.06.30:640][163]LogViewport: Scene viewport resized to 1388x633, mode Windowed.
+[2026.02.18-03.06.30:706][164]LogViewport: Scene viewport resized to 1388x695, mode Windowed.
+[2026.02.18-03.06.30:746][165]LogViewport: Scene viewport resized to 1388x733, mode Windowed.
+[2026.02.18-03.06.30:787][166]LogViewport: Scene viewport resized to 1388x765, mode Windowed.
+[2026.02.18-03.06.30:827][167]LogViewport: Scene viewport resized to 1388x781, mode Windowed.
+[2026.02.18-03.06.30:870][168]LogViewport: Scene viewport resized to 1388x786, mode Windowed.
+[2026.02.18-03.06.30:902][169]LogViewport: Scene viewport resized to 1388x787, mode Windowed.
+[2026.02.18-03.06.30:935][170]LogViewport: Scene viewport resized to 1388x790, mode Windowed.
+[2026.02.18-03.06.30:969][171]LogViewport: Scene viewport resized to 1388x797, mode Windowed.
+[2026.02.18-03.06.31:002][172]LogViewport: Scene viewport resized to 1388x804, mode Windowed.
+[2026.02.18-03.06.31:036][173]LogViewport: Scene viewport resized to 1388x812, mode Windowed.
+[2026.02.18-03.06.31:069][174]LogViewport: Scene viewport resized to 1388x818, mode Windowed.
+[2026.02.18-03.06.31:102][175]LogViewport: Scene viewport resized to 1388x819, mode Windowed.
+[2026.02.18-03.06.31:136][176]LogViewport: Scene viewport resized to 1388x823, mode Windowed.
+[2026.02.18-03.06.31:169][177]LogViewport: Scene viewport resized to 1388x829, mode Windowed.
+[2026.02.18-03.06.31:211][178]LogViewport: Scene viewport resized to 1388x840, mode Windowed.
+[2026.02.18-03.06.31:255][179]LogViewport: Scene viewport resized to 1388x845, mode Windowed.
+[2026.02.18-03.06.31:299][180]LogViewport: Scene viewport resized to 1388x846, mode Windowed.
+[2026.02.18-03.06.31:342][181]LogViewport: Scene viewport resized to 1388x840, mode Windowed.
+[2026.02.18-03.06.31:414][182]LogViewport: Scene viewport resized to 1388x805, mode Windowed.
+[2026.02.18-03.10.07:784][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5835.760742
+[2026.02.18-03.10.08:083][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.10.08:083][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5836.026855, Update Interval: 313.178497
+[2026.02.18-03.15.08:797][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-03.15.08:799][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-03.15.08:834][665]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto8
+[2026.02.18-03.15.08:834][665]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto8D9B08E514C35BECB65D4189018D1EDE5.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto8.umap'
+[2026.02.18-03.15.08:835][665]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto8.umap is in the /Temp path, will not scan.
+[2026.02.18-03.15.08:835][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.042
+[2026.02.18-03.15.08:835][665]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.02.18-03.16.04:625][332]Cmd: TRANSACTION UNDO
+[2026.02.18-03.16.04:625][332]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.16.08:517][442]Cmd: EDIT COPY
+[2026.02.18-03.16.08:883][453]Cmd: EDIT PASTE
+[2026.02.18-03.16.19:934][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6207.652832
+[2026.02.18-03.16.20:201][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.16.20:201][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6207.885742, Update Interval: 311.988281
+[2026.02.18-03.16.50:938][702]Cmd: EDIT COPY
+[2026.02.18-03.16.51:272][712]Cmd: EDIT PASTE
+[2026.02.18-03.19.52:899][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.19.52:899][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.19.52:899][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_144
+[2026.02.18-03.19.53:638][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.19.53:638][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.19.53:639][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_145
+[2026.02.18-03.20.33:516][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.20.33:516][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.20.33:516][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_151
+[2026.02.18-03.20.34:720][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.20.34:720][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.20.34:721][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_153
+[2026.02.18-03.21.37:644][155]Cmd: EDIT COPY
+[2026.02.18-03.21.38:377][177]Cmd: EDIT PASTE
+[2026.02.18-03.22.06:871][ 12]Cmd: EDIT COPY
+[2026.02.18-03.22.07:170][ 21]Cmd: EDIT PASTE
+[2026.02.18-03.22.17:020][315]Cmd: DELETE
+[2026.02.18-03.22.17:020][315]Cmd: ACTOR DELETE
+[2026.02.18-03.22.17:024][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-03.22.17:029][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.18-03.22.17:030][315]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2026.02.18-03.22.18:474][357]Cmd: DELETE
+[2026.02.18-03.22.18:474][357]Cmd: ACTOR DELETE
+[2026.02.18-03.22.18:477][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-03.22.18:481][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.18-03.22.18:483][357]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2026.02.18-03.22.21:173][436]Cmd: EDIT COPY
+[2026.02.18-03.22.21:607][449]Cmd: EDIT PASTE
+[2026.02.18-03.22.23:435][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6571.015625
+[2026.02.18-03.22.23:769][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.22.23:769][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6571.316406, Update Interval: 300.098877
+[2026.02.18-03.22.26:768][602]Cmd: EDIT COPY
+[2026.02.18-03.22.27:168][614]Cmd: EDIT PASTE
+[2026.02.18-03.22.37:207][908]Cmd: EDIT COPY
+[2026.02.18-03.22.37:541][918]Cmd: EDIT PASTE
+[2026.02.18-03.22.40:511][  5]Cmd: TRANSACTION UNDO
+[2026.02.18-03.22.40:511][  5]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.23.35:898][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.23.35:898][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.23.35:898][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_179
+[2026.02.18-03.23.36:835][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.23.36:835][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.23.36:836][661]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_182
+[2026.02.18-03.25.17:991][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.18-03.25.17:992][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-03.25.18:030][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto9
+[2026.02.18-03.25.18:030][669]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto9B768E4CF4B7EFA79256D9F87459594BA.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap'
+[2026.02.18-03.25.18:031][669]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto9.umap is in the /Temp path, will not scan.
+[2026.02.18-03.25.18:031][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.043
+[2026.02.18-03.25.18:031][669]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.02.18-03.26.45:050][259]LogViewport: Scene viewport resized to 1388x777, mode Windowed.
+[2026.02.18-03.26.45:084][260]LogViewport: Scene viewport resized to 1388x734, mode Windowed.
+[2026.02.18-03.26.45:117][261]LogViewport: Scene viewport resized to 1388x694, mode Windowed.
+[2026.02.18-03.26.45:150][262]LogViewport: Scene viewport resized to 1388x654, mode Windowed.
+[2026.02.18-03.26.45:183][263]LogViewport: Scene viewport resized to 1388x622, mode Windowed.
+[2026.02.18-03.26.45:217][264]LogViewport: Scene viewport resized to 1388x566, mode Windowed.
+[2026.02.18-03.26.45:250][265]LogViewport: Scene viewport resized to 1388x542, mode Windowed.
+[2026.02.18-03.26.45:283][266]LogViewport: Scene viewport resized to 1388x535, mode Windowed.
+[2026.02.18-03.26.45:316][267]LogViewport: Scene viewport resized to 1388x532, mode Windowed.
+[2026.02.18-03.26.45:350][268]LogViewport: Scene viewport resized to 1388x524, mode Windowed.
+[2026.02.18-03.26.45:383][269]LogViewport: Scene viewport resized to 1388x515, mode Windowed.
+[2026.02.18-03.26.45:417][270]LogViewport: Scene viewport resized to 1388x507, mode Windowed.
+[2026.02.18-03.26.45:450][271]LogViewport: Scene viewport resized to 1388x505, mode Windowed.
+[2026.02.18-03.27.09:214][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.27.09:214][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.27.09:215][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_186
+[2026.02.18-03.27.10:401][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.27.10:401][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.27.10:402][  7]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_193
+[2026.02.18-03.28.23:229][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6930.530273
+[2026.02.18-03.28.23:494][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.28.23:494][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6930.754395, Update Interval: 313.136383
+[2026.02.18-03.28.24:121][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.18-03.28.24:125][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-03.28.24:186][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-03.28.24:216][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.18-03.28.24:253][172]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-03.28.24:254][172]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBB19B9231403934596BB0C5961A2968CD.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-03.28.24:263][172]LogFileHelpers: Saving map 'StagepreB' took 0.077
+[2026.02.18-03.28.24:298][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 768 ms)
+[2026.02.18-03.28.24:301][172]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.18-03.28.24:301][172]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-03.30.49:273][510]Cmd: EDIT COPY
+[2026.02.18-03.30.49:640][521]Cmd: EDIT PASTE
+[2026.02.18-03.31.19:390][413]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.18-03.31.19:390][413]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.549e+07
+[2026.02.18-03.31.19:723][423]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.18-05.31.19 Remaining: 7200.15] Refresh[Expires: 2026-08-16T10:33:04.727Z Remaining: 15490905.73] State: Valid
+[2026.02.18-03.32.08:706][881]Cmd: EDIT COPY
+[2026.02.18-03.32.09:005][890]Cmd: EDIT PASTE
+[2026.02.18-03.33.59:991][186]Cmd: EDIT COPY
+[2026.02.18-03.34.00:457][200]Cmd: EDIT PASTE
+[2026.02.18-03.34.35:278][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7302.301270
+[2026.02.18-03.34.35:580][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.34.35:580][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7302.596191, Update Interval: 345.699036
+[2026.02.18-03.34.37:360][286]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1951 files in 3057 folders with total size 267 MiB.
+[2026.02.18-03.35.48:250][367]Cmd: EDIT COPY
+[2026.02.18-03.35.48:550][376]Cmd: EDIT PASTE
+[2026.02.18-03.36.08:777][973]Cmd: EDIT COPY
+[2026.02.18-03.36.09:077][982]Cmd: EDIT PASTE
+[2026.02.18-03.36.35:443][768]Cmd: EDIT COPY
+[2026.02.18-03.36.36:010][785]Cmd: EDIT PASTE
+[2026.02.18-03.36.58:723][456]Cmd: EDIT COPY
+[2026.02.18-03.36.59:022][465]Cmd: EDIT PASTE
+[2026.02.18-03.37.22:148][148]Cmd: EDIT COPY
+[2026.02.18-03.37.22:382][155]Cmd: EDIT PASTE
+[2026.02.18-03.39.11:586][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.18-03.39.11:810][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-03.39.11:848][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto0
+[2026.02.18-03.39.11:848][384]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto0364A0D61442DBEA80A9A43B4301EFEA7.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap'
+[2026.02.18-03.39.11:849][384]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto0.umap is in the /Temp path, will not scan.
+[2026.02.18-03.39.11:849][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.267
+[2026.02.18-03.39.11:849][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2026.02.18-03.39.13:363][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.39.13:363][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.39.13:363][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_212
+[2026.02.18-03.39.14:694][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.39.14:694][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.39.14:695][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_213
+[2026.02.18-03.40.44:903][148]Cmd: TRANSACTION UNDO
+[2026.02.18-03.40.44:903][148]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.41.20:706][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7707.520508
+[2026.02.18-03.41.21:407][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.41.21:407][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7708.187988, Update Interval: 310.104065
+[2026.02.18-03.42.34:825][410]Cmd: TRANSACTION UNDO
+[2026.02.18-03.42.34:825][410]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.42.37:215][476]Cmd: TRANSACTION UNDO
+[2026.02.18-03.42.37:215][476]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.42.40:016][560]Cmd: TRANSACTION UNDO
+[2026.02.18-03.42.40:017][560]LogEditorTransaction: Undo 要素の移動
+[2026.02.18-03.44.47:318][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.44.47:318][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.44.47:319][348]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_214
+[2026.02.18-03.44.47:956][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.44.47:956][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-03.44.47:957][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_215
+[2026.02.18-03.47.18:481][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8064.974609
+[2026.02.18-03.47.18:815][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.47.18:815][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8065.273438, Update Interval: 340.559082
+[2026.02.18-03.49.13:569][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.18-03.49.13:569][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.18-03.49.13:569][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_216
+[2026.02.18-03.49.14:473][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.18-03.49.14:473][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX
+[2026.02.18-03.49.14:474][323]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerRX.S_MarkerRX as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_217
+[2026.02.18-03.49.16:765][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.18-03.49.16:766][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-03.49.16:805][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto1
+[2026.02.18-03.49.16:805][388]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto1CCA248AD4F8645731905258B3D734A1E.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap'
+[2026.02.18-03.49.16:805][388]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto1.umap is in the /Temp path, will not scan.
+[2026.02.18-03.49.16:805][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.045
+[2026.02.18-03.49.16:806][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2026.02.18-03.50.04:585][796]Cmd: TRANSACTION UNDO
+[2026.02.18-03.50.04:585][796]LogEditorTransaction: Undo 要素をクリックしています
+[2026.02.18-03.50.08:986][914]Cmd: TRANSACTION UNDO
+[2026.02.18-03.50.08:986][914]LogEditorTransaction: Undo 要素をクリックしています
+[2026.02.18-03.50.15:243][ 95]Cmd: TRANSACTION REDO
+[2026.02.18-03.50.15:243][ 95]LogEditorTransaction: Redo 要素をクリックしています
+[2026.02.18-03.51.43:381][562]LogViewport: Scene viewport resized to 1388x523, mode Windowed.
+[2026.02.18-03.51.43:415][563]LogViewport: Scene viewport resized to 1388x549, mode Windowed.
+[2026.02.18-03.51.43:449][564]LogViewport: Scene viewport resized to 1388x565, mode Windowed.
+[2026.02.18-03.51.43:680][571]LogViewport: Scene viewport resized to 1388x553, mode Windowed.
+[2026.02.18-03.51.43:716][572]LogViewport: Scene viewport resized to 1388x548, mode Windowed.
+[2026.02.18-03.51.43:749][573]LogViewport: Scene viewport resized to 1388x547, mode Windowed.
+[2026.02.18-03.51.43:783][574]LogViewport: Scene viewport resized to 1388x542, mode Windowed.
+[2026.02.18-03.51.43:815][575]LogViewport: Scene viewport resized to 1388x533, mode Windowed.
+[2026.02.18-03.51.43:849][576]LogViewport: Scene viewport resized to 1388x531, mode Windowed.
+[2026.02.18-03.51.43:882][577]LogViewport: Scene viewport resized to 1388x528, mode Windowed.
+[2026.02.18-03.51.43:916][578]LogViewport: Scene viewport resized to 1388x523, mode Windowed.
+[2026.02.18-03.51.43:949][579]LogViewport: Scene viewport resized to 1388x517, mode Windowed.
+[2026.02.18-03.51.43:982][580]LogViewport: Scene viewport resized to 1388x512, mode Windowed.
+[2026.02.18-03.51.44:016][581]LogViewport: Scene viewport resized to 1388x508, mode Windowed.
+[2026.02.18-03.51.44:049][582]LogViewport: Scene viewport resized to 1388x506, mode Windowed.
+[2026.02.18-03.51.44:481][595]LogViewport: Scene viewport resized to 1388x503, mode Windowed.
+[2026.02.18-03.51.44:516][596]LogViewport: Scene viewport resized to 1388x497, mode Windowed.
+[2026.02.18-03.51.44:548][597]LogViewport: Scene viewport resized to 1388x495, mode Windowed.
+[2026.02.18-03.52.39:515][998]Cmd: EDIT COPY
+[2026.02.18-03.52.39:815][  7]Cmd: EDIT PASTE
+[2026.02.18-03.53.41:946][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8447.901367
+[2026.02.18-03.53.42:213][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.53.42:213][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8448.133789, Update Interval: 309.833069
+[2026.02.18-03.54.24:308][ 87]LogViewport: Scene viewport resized to 1388x497, mode Windowed.
+[2026.02.18-03.54.24:342][ 88]LogViewport: Scene viewport resized to 1388x512, mode Windowed.
+[2026.02.18-03.54.24:376][ 89]LogViewport: Scene viewport resized to 1388x540, mode Windowed.
+[2026.02.18-03.54.24:408][ 90]LogViewport: Scene viewport resized to 1388x568, mode Windowed.
+[2026.02.18-03.54.24:442][ 91]LogViewport: Scene viewport resized to 1388x584, mode Windowed.
+[2026.02.18-03.54.24:475][ 92]LogViewport: Scene viewport resized to 1388x608, mode Windowed.
+[2026.02.18-03.54.24:509][ 93]LogViewport: Scene viewport resized to 1388x627, mode Windowed.
+[2026.02.18-03.54.24:541][ 94]LogViewport: Scene viewport resized to 1388x641, mode Windowed.
+[2026.02.18-03.54.24:575][ 95]LogViewport: Scene viewport resized to 1388x649, mode Windowed.
+[2026.02.18-03.54.24:609][ 96]LogViewport: Scene viewport resized to 1388x657, mode Windowed.
+[2026.02.18-03.54.24:642][ 97]LogViewport: Scene viewport resized to 1388x661, mode Windowed.
+[2026.02.18-03.54.24:675][ 98]LogViewport: Scene viewport resized to 1388x666, mode Windowed.
+[2026.02.18-03.54.24:709][ 99]LogViewport: Scene viewport resized to 1388x670, mode Windowed.
+[2026.02.18-03.54.24:774][101]LogViewport: Scene viewport resized to 1388x674, mode Windowed.
+[2026.02.18-03.54.24:809][102]LogViewport: Scene viewport resized to 1388x676, mode Windowed.
+[2026.02.18-03.54.27:364][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.54.27:364][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.54.27:364][175]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_219
+[2026.02.18-03.54.28:842][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.54.28:842][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-03.54.28:843][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_220
+[2026.02.18-03.55.18:005][674]Cmd: EDIT COPY
+[2026.02.18-03.55.18:372][685]Cmd: EDIT PASTE
+[2026.02.18-03.55.37:242][249]Cmd: EDIT COPY
+[2026.02.18-03.55.37:542][258]Cmd: EDIT PASTE
+[2026.02.18-03.56.09:423][211]Cmd: EDIT COPY
+[2026.02.18-03.56.09:957][227]Cmd: EDIT PASTE
+[2026.02.18-03.56.37:442][ 44]Cmd: EDIT COPY
+[2026.02.18-03.56.37:776][ 54]Cmd: EDIT PASTE
+[2026.02.18-03.56.49:771][411]Cmd: EDIT COPY
+[2026.02.18-03.56.50:071][420]Cmd: EDIT PASTE
+[2026.02.18-03.57.36:538][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma
+[2026.02.18-03.57.36:538][798]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma
+[2026.02.18-03.57.36:539][798]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_226
+[2026.02.18-03.57.38:676][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma
+[2026.02.18-03.57.38:676][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma
+[2026.02.18-03.57.38:677][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/GoeponMap/SM_2fusuma.SM_2fusuma as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_227
+[2026.02.18-03.57.59:233][466]Cmd: EDIT COPY
+[2026.02.18-03.57.59:599][477]Cmd: EDIT PASTE
+[2026.02.18-03.59.37:228][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.18-03.59.37:229][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-03.59.37:269][392]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto2
+[2026.02.18-03.59.37:269][392]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto2E4333D5A45F445D55943338B2BBACE16.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap'
+[2026.02.18-03.59.37:270][392]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto2.umap is in the /Temp path, will not scan.
+[2026.02.18-03.59.37:270][392]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.047
+[2026.02.18-03.59.37:270][392]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.02.18-03.59.47:240][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8812.491211
+[2026.02.18-03.59.47:541][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-03.59.47:541][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8812.756836, Update Interval: 332.421631
+[2026.02.18-04.06.02:176][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9186.529297
+[2026.02.18-04.06.02:510][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.06.02:510][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9186.828125, Update Interval: 309.617004
+[2026.02.18-04.06.31:788][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.18-04.06.31:791][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-04.06.31:852][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-04.06.31:870][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.18-04.06.31:911][796]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-04.06.31:911][796]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBD1A3D2BC47F426835759E5B9EBB88AE0.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-04.06.31:920][796]LogFileHelpers: Saving map 'StagepreB' took 0.068
+[2026.02.18-04.06.31:959][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 935 ms)
+[2026.02.18-04.06.31:961][796]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.18-04.06.31:961][796]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-04.11.51:108][875]LogSlate: Window 'マージしたアクタを作成' being destroyed
+[2026.02.18-04.11.51:286][875]LogStaticMesh: Display: スタティックメッシュ SM_stagebeta をビルド中...
+[2026.02.18-04.11.51:566][880]LogStaticMesh: Built static mesh [0.28s] /Game/SM_stagebeta.SM_stagebeta
+[2026.02.18-04.11.57:476][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_stagebeta.SM_stagebeta
+[2026.02.18-04.11.57:476][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_stagebeta.SM_stagebeta
+[2026.02.18-04.11.57:477][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_stagebeta.SM_stagebeta as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_229
+[2026.02.18-04.11.58:008][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_stagebeta.SM_stagebeta
+[2026.02.18-04.11.58:008][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SM_stagebeta.SM_stagebeta
+[2026.02.18-04.11.58:009][ 65]LogActorFactory: Actor Factory spawned StaticMesh /Game/SM_stagebeta.SM_stagebeta as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_230
+[2026.02.18-04.12.36:527][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9580.146484
+[2026.02.18-04.12.37:260][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.12.37:260][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9580.846680, Update Interval: 305.702087
+[2026.02.18-04.14.12:187][ 78]LogViewport: Scene viewport resized to 1388x672, mode Windowed.
+[2026.02.18-04.14.12:254][ 80]LogViewport: Scene viewport resized to 1388x669, mode Windowed.
+[2026.02.18-04.14.12:388][ 84]LogViewport: Scene viewport resized to 1388x665, mode Windowed.
+[2026.02.18-04.14.12:422][ 85]LogViewport: Scene viewport resized to 1388x664, mode Windowed.
+[2026.02.18-04.14.12:455][ 86]LogViewport: Scene viewport resized to 1388x663, mode Windowed.
+[2026.02.18-04.14.12:521][ 88]LogViewport: Scene viewport resized to 1388x661, mode Windowed.
+[2026.02.18-04.14.12:621][ 91]LogViewport: Scene viewport resized to 1388x659, mode Windowed.
+[2026.02.18-04.14.12:987][102]LogViewport: Scene viewport resized to 1388x661, mode Windowed.
+[2026.02.18-04.14.13:022][103]LogViewport: Scene viewport resized to 1388x663, mode Windowed.
+[2026.02.18-04.14.13:055][104]LogViewport: Scene viewport resized to 1388x667, mode Windowed.
+[2026.02.18-04.14.13:088][105]LogViewport: Scene viewport resized to 1388x672, mode Windowed.
+[2026.02.18-04.14.13:121][106]LogViewport: Scene viewport resized to 1388x676, mode Windowed.
+[2026.02.18-04.14.13:155][107]LogViewport: Scene viewport resized to 1388x677, mode Windowed.
+[2026.02.18-04.14.13:189][108]LogViewport: Scene viewport resized to 1388x679, mode Windowed.
+[2026.02.18-04.14.13:221][109]LogViewport: Scene viewport resized to 1388x680, mode Windowed.
+[2026.02.18-04.14.13:255][110]LogViewport: Scene viewport resized to 1388x683, mode Windowed.
+[2026.02.18-04.14.13:287][111]LogViewport: Scene viewport resized to 1388x684, mode Windowed.
+[2026.02.18-04.14.13:322][112]LogViewport: Scene viewport resized to 1388x687, mode Windowed.
+[2026.02.18-04.14.13:355][113]LogViewport: Scene viewport resized to 1388x689, mode Windowed.
+[2026.02.18-04.14.13:388][114]LogViewport: Scene viewport resized to 1388x692, mode Windowed.
+[2026.02.18-04.14.13:421][115]LogViewport: Scene viewport resized to 1388x697, mode Windowed.
+[2026.02.18-04.14.13:455][116]LogViewport: Scene viewport resized to 1388x700, mode Windowed.
+[2026.02.18-04.14.13:587][120]LogViewport: Scene viewport resized to 1388x703, mode Windowed.
+[2026.02.18-04.14.13:622][121]LogViewport: Scene viewport resized to 1388x708, mode Windowed.
+[2026.02.18-04.14.13:655][122]LogViewport: Scene viewport resized to 1388x712, mode Windowed.
+[2026.02.18-04.14.13:687][123]LogViewport: Scene viewport resized to 1388x715, mode Windowed.
+[2026.02.18-04.14.13:721][124]LogViewport: Scene viewport resized to 1388x719, mode Windowed.
+[2026.02.18-04.14.13:755][125]LogViewport: Scene viewport resized to 1388x721, mode Windowed.
+[2026.02.18-04.14.13:789][126]LogViewport: Scene viewport resized to 1388x724, mode Windowed.
+[2026.02.18-04.14.13:921][130]LogViewport: Scene viewport resized to 1388x730, mode Windowed.
+[2026.02.18-04.14.13:955][131]LogViewport: Scene viewport resized to 1388x733, mode Windowed.
+[2026.02.18-04.14.13:987][132]LogViewport: Scene viewport resized to 1388x734, mode Windowed.
+[2026.02.18-04.14.14:022][133]LogViewport: Scene viewport resized to 1388x737, mode Windowed.
+[2026.02.18-04.14.14:055][134]LogViewport: Scene viewport resized to 1388x739, mode Windowed.
+[2026.02.18-04.14.14:120][136]LogViewport: Scene viewport resized to 1388x741, mode Windowed.
+[2026.02.18-04.17.22:894][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/Dog.Dog
+[2026.02.18-04.17.22:894][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/Dog.Dog
+[2026.02.18-04.17.22:894][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/Dog.Dog as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_231
+[2026.02.18-04.17.23:831][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/Dog.Dog
+[2026.02.18-04.17.23:831][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/Dog.Dog
+[2026.02.18-04.17.23:832][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/Dog.Dog as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_232
+[2026.02.18-04.17.44:321][420]Cmd: DELETE
+[2026.02.18-04.17.44:321][420]Cmd: ACTOR DELETE
+[2026.02.18-04.17.44:324][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-04.17.44:330][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.18-04.17.44:331][420]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2026.02.18-04.18.17:096][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9920.224609
+[2026.02.18-04.18.17:363][412]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.18.17:363][412]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9920.458008, Update Interval: 307.789551
+[2026.02.18-04.19.27:950][518]LogViewport: Scene viewport resized to 1388x711, mode Windowed.
+[2026.02.18-04.19.27:984][519]LogViewport: Scene viewport resized to 1388x684, mode Windowed.
+[2026.02.18-04.19.28:018][520]LogViewport: Scene viewport resized to 1388x668, mode Windowed.
+[2026.02.18-04.19.28:051][521]LogViewport: Scene viewport resized to 1388x659, mode Windowed.
+[2026.02.18-04.19.28:084][522]LogViewport: Scene viewport resized to 1388x656, mode Windowed.
+[2026.02.18-04.19.28:316][529]LogViewport: Scene viewport resized to 1388x659, mode Windowed.
+[2026.02.18-04.19.28:351][530]LogViewport: Scene viewport resized to 1388x675, mode Windowed.
+[2026.02.18-04.19.28:385][531]LogViewport: Scene viewport resized to 1388x680, mode Windowed.
+[2026.02.18-04.19.28:416][532]LogViewport: Scene viewport resized to 1388x681, mode Windowed.
+[2026.02.18-04.20.09:330][964]LogSlate: Window 'FBXエクスポートオプション' being destroyed
+[2026.02.18-04.20.09:407][964]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2026.02.18-04.20.44:588][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.18-04.20.44:591][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-04.20.44:631][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto3
+[2026.02.18-04.20.44:631][  8]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto3BD2724E14EC3D5356E75D1BA64E83233.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap'
+[2026.02.18-04.20.44:632][  8]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto3.umap is in the /Temp path, will not scan.
+[2026.02.18-04.20.44:632][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.048
+[2026.02.18-04.20.44:632][  8]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2026.02.18-04.20.44:632][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_stagebeta] ([1] browsable assets)...
+[2026.02.18-04.20.44:771][  8]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_stagebeta.SM_stagebeta]
+[2026.02.18-04.20.44:771][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_stagebeta]
+[2026.02.18-04.20.44:771][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_stagebeta" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_stagebeta_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.02.18-04.20.44:834][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SM_stagebeta_Auto3
+[2026.02.18-04.20.44:834][  8]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_stagebeta_Auto39E6BA56445E57CA700C02CBF15B753CD.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/SM_stagebeta_Auto3.uasset'
+[2026.02.18-04.20.44:834][  8]LogFileHelpers: Auto-saving content packages took 0.203
+[2026.02.18-04.22.06:449][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.18-04.22.06:453][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-04.22.06:513][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-04.22.06:531][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.18-04.22.06:571][455]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-04.22.06:572][455]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBA03D15D74E0FDA61850136BD9D5508EC.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-04.22.06:581][455]LogFileHelpers: Saving map 'StagepreB' took 0.068
+[2026.02.18-04.22.06:581][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_stagebeta" FILE="D:/Map_Goepon/Goeponmap/Content/SM_stagebeta.uasset" SILENT=true
+[2026.02.18-04.22.06:641][455]LogSavePackage: Moving output files for package: /Game/SM_stagebeta
+[2026.02.18-04.22.06:641][455]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/SM_stagebeta711456154C6D3659FB4457B7D40051A2.tmp' to 'D:/Map_Goepon/Goeponmap/Content/SM_stagebeta.uasset'
+[2026.02.18-04.22.06:652][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.13 sec)
+[2026.02.18-04.22.06:655][455]AssetCheck: New page: アセット保存：複数のアセット
+[2026.02.18-04.22.06:655][455]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-04.22.06:655][455]LogContentValidation: Display: /Script/Engine.StaticMesh /Game/SM_stagebeta.SM_stagebeta を検証しています
+[2026.02.18-04.24.21:348][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10283.645508
+[2026.02.18-04.24.21:649][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.24.21:649][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10283.913086, Update Interval: 352.538208
+[2026.02.18-04.30.58:618][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10679.771484
+[2026.02.18-04.30.58:886][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.30.58:886][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10680.004883, Update Interval: 358.095642
+[2026.02.18-04.34.37:358][932]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-04.34.39:061][977]LogViewport: Scene viewport resized to 948x620, mode Windowed.
+[2026.02.18-04.34.43:799][ 88]LogViewport: Scene viewport resized to 1388x681, mode Windowed.
+[2026.02.18-04.34.45:312][132]LogViewport: Scene viewport resized to 1396x681, mode Windowed.
+[2026.02.18-04.34.45:346][133]LogViewport: Scene viewport resized to 1438x681, mode Windowed.
+[2026.02.18-04.34.45:376][134]LogViewport: Scene viewport resized to 1490x681, mode Windowed.
+[2026.02.18-04.34.45:410][135]LogViewport: Scene viewport resized to 1540x681, mode Windowed.
+[2026.02.18-04.34.45:478][136]LogViewport: Scene viewport resized to 1624x681, mode Windowed.
+[2026.02.18-04.34.45:537][137]LogViewport: Scene viewport resized to 1662x681, mode Windowed.
+[2026.02.18-04.34.45:602][138]LogViewport: Scene viewport resized to 1665x681, mode Windowed.
+[2026.02.18-04.34.45:681][140]LogViewport: Scene viewport resized to 1678x681, mode Windowed.
+[2026.02.18-04.34.45:711][141]LogViewport: Scene viewport resized to 1686x681, mode Windowed.
+[2026.02.18-04.34.45:745][142]LogViewport: Scene viewport resized to 1690x681, mode Windowed.
+[2026.02.18-04.37.39:246][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11079.318359
+[2026.02.18-04.37.39:548][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.37.39:548][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11079.586914, Update Interval: 337.228302
+[2026.02.18-04.43.58:393][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11457.745117
+[2026.02.18-04.43.58:659][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.43.58:659][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11457.976562, Update Interval: 324.654083
+[2026.02.18-04.50.12:312][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11831.044922
+[2026.02.18-04.50.12:579][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.50.12:580][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11831.278320, Update Interval: 345.942566
+[2026.02.18-04.56.36:365][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12214.378906
+[2026.02.18-04.56.36:666][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-04.56.36:666][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12214.647461, Update Interval: 344.406250
+[2026.02.18-05.03.13:842][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12611.244141
+[2026.02.18-05.03.14:144][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.03.14:144][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12611.511719, Update Interval: 303.590820
+[2026.02.18-05.09.16:971][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12973.477539
+[2026.02.18-05.09.17:274][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.09.17:274][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12973.745117, Update Interval: 333.864563
+[2026.02.18-05.15.50:519][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13366.247070
+[2026.02.18-05.15.50:821][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.15.50:821][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13366.514648, Update Interval: 349.709167
+[2026.02.18-05.22.29:754][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13764.668945
+[2026.02.18-05.22.30:055][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.22.30:055][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13764.938477, Update Interval: 327.093109
+[2026.02.18-05.28.51:052][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14145.195312
+[2026.02.18-05.28.51:352][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.28.51:352][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14145.462891, Update Interval: 355.239105
+[2026.02.18-05.29.39:909][612]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.18-05.29.39:909][612]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.97 RefreshExpires: 1.548e+07
+[2026.02.18-05.29.40:243][622]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.18-07.29.39 Remaining: 7200.75] Refresh[Expires: 2026-08-16T10:33:04.727Z Remaining: 15483805.73] State: Valid
+[2026.02.18-05.34.37:358][507]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-05.35.42:181][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14555.455078
+[2026.02.18-05.35.42:481][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.35.42:481][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14555.722656, Update Interval: 341.773132
+[2026.02.18-05.42.03:341][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14935.936523
+[2026.02.18-05.42.03:610][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.42.03:610][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14936.169922, Update Interval: 352.087769
+[2026.02.18-05.48.40:538][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15332.379883
+[2026.02.18-05.48.40:805][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.48.40:805][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15332.612305, Update Interval: 300.219727
+[2026.02.18-05.50.27:143][906]LogViewport: Scene viewport resized to 1684x681, mode Windowed.
+[2026.02.18-05.50.27:176][907]LogViewport: Scene viewport resized to 1672x681, mode Windowed.
+[2026.02.18-05.50.27:253][908]LogViewport: Scene viewport resized to 1620x681, mode Windowed.
+[2026.02.18-05.50.27:350][909]LogViewport: Scene viewport resized to 1537x681, mode Windowed.
+[2026.02.18-05.50.27:395][910]LogViewport: Scene viewport resized to 1507x681, mode Windowed.
+[2026.02.18-05.50.27:429][911]LogViewport: Scene viewport resized to 1493x681, mode Windowed.
+[2026.02.18-05.50.27:461][912]LogViewport: Scene viewport resized to 1491x681, mode Windowed.
+[2026.02.18-05.50.27:494][913]LogViewport: Scene viewport resized to 1476x681, mode Windowed.
+[2026.02.18-05.50.27:528][914]LogViewport: Scene viewport resized to 1469x681, mode Windowed.
+[2026.02.18-05.50.27:561][915]LogViewport: Scene viewport resized to 1462x681, mode Windowed.
+[2026.02.18-05.50.27:594][916]LogViewport: Scene viewport resized to 1460x681, mode Windowed.
+[2026.02.18-05.50.27:628][917]LogViewport: Scene viewport resized to 1457x681, mode Windowed.
+[2026.02.18-05.50.27:661][918]LogViewport: Scene viewport resized to 1441x681, mode Windowed.
+[2026.02.18-05.50.27:694][919]LogViewport: Scene viewport resized to 1437x681, mode Windowed.
+[2026.02.18-05.50.27:860][924]LogViewport: Scene viewport resized to 1434x681, mode Windowed.
+[2026.02.18-05.50.27:927][926]LogViewport: Scene viewport resized to 1431x681, mode Windowed.
+[2026.02.18-05.50.27:994][928]LogViewport: Scene viewport resized to 1428x681, mode Windowed.
+[2026.02.18-05.50.28:028][929]LogViewport: Scene viewport resized to 1427x681, mode Windowed.
+[2026.02.18-05.53.28:376][314]LogViewport: Scene viewport resized to 1427x668, mode Windowed.
+[2026.02.18-05.53.28:410][315]LogViewport: Scene viewport resized to 1427x637, mode Windowed.
+[2026.02.18-05.53.28:444][316]LogViewport: Scene viewport resized to 1427x597, mode Windowed.
+[2026.02.18-05.53.28:477][317]LogViewport: Scene viewport resized to 1427x561, mode Windowed.
+[2026.02.18-05.53.28:510][318]LogViewport: Scene viewport resized to 1427x507, mode Windowed.
+[2026.02.18-05.53.28:545][319]LogViewport: Scene viewport resized to 1427x461, mode Windowed.
+[2026.02.18-05.53.28:578][320]LogViewport: Scene viewport resized to 1427x425, mode Windowed.
+[2026.02.18-05.53.28:612][321]LogViewport: Scene viewport resized to 1427x396, mode Windowed.
+[2026.02.18-05.53.28:646][322]LogViewport: Scene viewport resized to 1427x363, mode Windowed.
+[2026.02.18-05.53.28:679][323]LogViewport: Scene viewport resized to 1427x334, mode Windowed.
+[2026.02.18-05.53.28:711][324]LogViewport: Scene viewport resized to 1427x311, mode Windowed.
+[2026.02.18-05.53.28:746][325]LogViewport: Scene viewport resized to 1427x294, mode Windowed.
+[2026.02.18-05.53.28:779][326]LogViewport: Scene viewport resized to 1427x284, mode Windowed.
+[2026.02.18-05.53.28:812][327]LogViewport: Scene viewport resized to 1427x281, mode Windowed.
+[2026.02.18-05.53.28:846][328]LogViewport: Scene viewport resized to 1427x277, mode Windowed.
+[2026.02.18-05.53.28:879][329]LogViewport: Scene viewport resized to 1427x273, mode Windowed.
+[2026.02.18-05.53.28:912][330]LogViewport: Scene viewport resized to 1427x270, mode Windowed.
+[2026.02.18-05.53.28:945][331]LogViewport: Scene viewport resized to 1427x268, mode Windowed.
+[2026.02.18-05.53.28:978][332]LogViewport: Scene viewport resized to 1427x263, mode Windowed.
+[2026.02.18-05.53.29:012][333]LogViewport: Scene viewport resized to 1427x259, mode Windowed.
+[2026.02.18-05.54.00:905][138]LogScript: Error: Script Msg: Traceback (most recent call last):
+
+  File "<string>", line 5, in <module>
+
+PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
+
+[2026.02.18-05.54.00:905][138]LogScript: Error: Script call stack:
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.ExecuteUbergraph_EUW_JSONExport <---
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.BndEvt__EUW_test_Button_0_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature
+
+[2026.02.18-05.54.38:668][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15689.789062
+[2026.02.18-05.54.38:968][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-05.54.38:968][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15690.056641, Update Interval: 317.338776
+[2026.02.18-06.00.50:978][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16061.403320
+[2026.02.18-06.00.51:279][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.00.51:279][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16061.671875, Update Interval: 322.247986
+[2026.02.18-06.04.01:875][133]LogViewport: Scene viewport resized to 1427x262, mode Windowed.
+[2026.02.18-06.04.01:908][134]LogViewport: Scene viewport resized to 1427x278, mode Windowed.
+[2026.02.18-06.04.01:943][135]LogViewport: Scene viewport resized to 1427x290, mode Windowed.
+[2026.02.18-06.04.01:976][136]LogViewport: Scene viewport resized to 1427x304, mode Windowed.
+[2026.02.18-06.04.02:009][137]LogViewport: Scene viewport resized to 1427x326, mode Windowed.
+[2026.02.18-06.04.02:041][138]LogViewport: Scene viewport resized to 1427x350, mode Windowed.
+[2026.02.18-06.04.02:076][139]LogViewport: Scene viewport resized to 1427x369, mode Windowed.
+[2026.02.18-06.04.02:109][140]LogViewport: Scene viewport resized to 1427x401, mode Windowed.
+[2026.02.18-06.04.02:142][141]LogViewport: Scene viewport resized to 1427x422, mode Windowed.
+[2026.02.18-06.04.02:176][142]LogViewport: Scene viewport resized to 1427x452, mode Windowed.
+[2026.02.18-06.04.02:210][143]LogViewport: Scene viewport resized to 1427x489, mode Windowed.
+[2026.02.18-06.04.02:242][144]LogViewport: Scene viewport resized to 1427x529, mode Windowed.
+[2026.02.18-06.04.02:276][145]LogViewport: Scene viewport resized to 1427x548, mode Windowed.
+[2026.02.18-06.04.02:309][146]LogViewport: Scene viewport resized to 1427x569, mode Windowed.
+[2026.02.18-06.04.02:341][147]LogViewport: Scene viewport resized to 1427x590, mode Windowed.
+[2026.02.18-06.04.02:375][148]LogViewport: Scene viewport resized to 1427x615, mode Windowed.
+[2026.02.18-06.04.02:408][149]LogViewport: Scene viewport resized to 1427x648, mode Windowed.
+[2026.02.18-06.04.02:442][150]LogViewport: Scene viewport resized to 1427x690, mode Windowed.
+[2026.02.18-06.04.02:476][151]LogViewport: Scene viewport resized to 1427x731, mode Windowed.
+[2026.02.18-06.04.02:509][152]LogViewport: Scene viewport resized to 1427x777, mode Windowed.
+[2026.02.18-06.04.02:543][153]LogViewport: Scene viewport resized to 1427x798, mode Windowed.
+[2026.02.18-06.04.02:576][154]LogViewport: Scene viewport resized to 1427x809, mode Windowed.
+[2026.02.18-06.04.02:609][155]LogViewport: Scene viewport resized to 1427x812, mode Windowed.
+[2026.02.18-06.04.02:642][156]LogViewport: Scene viewport resized to 1427x813, mode Windowed.
+[2026.02.18-06.04.02:675][157]LogViewport: Scene viewport resized to 1427x815, mode Windowed.
+[2026.02.18-06.04.02:709][158]LogViewport: Scene viewport resized to 1427x819, mode Windowed.
+[2026.02.18-06.04.02:742][159]LogViewport: Scene viewport resized to 1427x823, mode Windowed.
+[2026.02.18-06.04.02:808][161]LogViewport: Scene viewport resized to 1427x827, mode Windowed.
+[2026.02.18-06.04.02:842][162]LogViewport: Scene viewport resized to 1427x831, mode Windowed.
+[2026.02.18-06.04.02:909][164]LogViewport: Scene viewport resized to 1427x832, mode Windowed.
+[2026.02.18-06.04.02:942][165]LogViewport: Scene viewport resized to 1427x834, mode Windowed.
+[2026.02.18-06.04.03:123][169]LogViewport: Scene viewport resized to 1427x825, mode Windowed.
+[2026.02.18-06.05.06:561][ 62]LogViewport: Scene viewport resized to 1427x817, mode Windowed.
+[2026.02.18-06.05.06:596][ 63]LogViewport: Scene viewport resized to 1427x783, mode Windowed.
+[2026.02.18-06.05.06:629][ 64]LogViewport: Scene viewport resized to 1427x720, mode Windowed.
+[2026.02.18-06.05.06:663][ 65]LogViewport: Scene viewport resized to 1427x657, mode Windowed.
+[2026.02.18-06.05.06:696][ 66]LogViewport: Scene viewport resized to 1427x609, mode Windowed.
+[2026.02.18-06.05.06:729][ 67]LogViewport: Scene viewport resized to 1427x588, mode Windowed.
+[2026.02.18-06.05.06:762][ 68]LogViewport: Scene viewport resized to 1427x580, mode Windowed.
+[2026.02.18-06.05.06:796][ 69]LogViewport: Scene viewport resized to 1427x576, mode Windowed.
+[2026.02.18-06.05.06:829][ 70]LogViewport: Scene viewport resized to 1427x565, mode Windowed.
+[2026.02.18-06.05.06:863][ 71]LogViewport: Scene viewport resized to 1427x559, mode Windowed.
+[2026.02.18-06.05.06:896][ 72]LogViewport: Scene viewport resized to 1427x555, mode Windowed.
+[2026.02.18-06.05.06:929][ 73]LogViewport: Scene viewport resized to 1427x548, mode Windowed.
+[2026.02.18-06.05.06:963][ 74]LogViewport: Scene viewport resized to 1427x545, mode Windowed.
+[2026.02.18-06.05.07:129][ 79]LogViewport: Scene viewport resized to 1427x546, mode Windowed.
+[2026.02.18-06.05.07:162][ 80]LogViewport: Scene viewport resized to 1427x550, mode Windowed.
+[2026.02.18-06.05.07:196][ 81]LogViewport: Scene viewport resized to 1427x563, mode Windowed.
+[2026.02.18-06.05.07:229][ 82]LogViewport: Scene viewport resized to 1427x583, mode Windowed.
+[2026.02.18-06.05.07:262][ 83]LogViewport: Scene viewport resized to 1427x593, mode Windowed.
+[2026.02.18-06.05.07:296][ 84]LogViewport: Scene viewport resized to 1427x600, mode Windowed.
+[2026.02.18-06.05.07:329][ 85]LogViewport: Scene viewport resized to 1427x605, mode Windowed.
+[2026.02.18-06.05.07:363][ 86]LogViewport: Scene viewport resized to 1427x609, mode Windowed.
+[2026.02.18-06.05.07:396][ 87]LogViewport: Scene viewport resized to 1427x615, mode Windowed.
+[2026.02.18-06.05.07:429][ 88]LogViewport: Scene viewport resized to 1427x621, mode Windowed.
+[2026.02.18-06.05.16:712][363]LogSlate: Window 'コンテンツブラウザ 3' being destroyed
+[2026.02.18-06.05.16:794][363]LogViewport: Scene viewport resized to 1427x308, mode Windowed.
+[2026.02.18-06.05.19:429][442]Cmd: TRANSACTION UNDO
+[2026.02.18-06.05.19:431][442]LogEditorTransaction: Undo アクタをクリック
+[2026.02.18-06.05.22:416][522]Cmd: TRANSACTION REDO
+[2026.02.18-06.05.22:416][522]LogEditorTransaction: Redo アクタをクリック
+[2026.02.18-06.05.33:150][840]LogViewport: Scene viewport resized to 1427x310, mode Windowed.
+[2026.02.18-06.05.33:184][841]LogViewport: Scene viewport resized to 1427x314, mode Windowed.
+[2026.02.18-06.05.33:218][842]LogViewport: Scene viewport resized to 1427x318, mode Windowed.
+[2026.02.18-06.05.33:251][843]LogViewport: Scene viewport resized to 1427x321, mode Windowed.
+[2026.02.18-06.05.33:284][844]LogViewport: Scene viewport resized to 1427x325, mode Windowed.
+[2026.02.18-06.05.33:317][845]LogViewport: Scene viewport resized to 1427x329, mode Windowed.
+[2026.02.18-06.05.33:351][846]LogViewport: Scene viewport resized to 1427x332, mode Windowed.
+[2026.02.18-06.05.33:385][847]LogViewport: Scene viewport resized to 1427x336, mode Windowed.
+[2026.02.18-06.05.33:418][848]LogViewport: Scene viewport resized to 1427x341, mode Windowed.
+[2026.02.18-06.05.33:451][849]LogViewport: Scene viewport resized to 1427x345, mode Windowed.
+[2026.02.18-06.05.33:484][850]LogViewport: Scene viewport resized to 1427x352, mode Windowed.
+[2026.02.18-06.05.33:518][851]LogViewport: Scene viewport resized to 1427x360, mode Windowed.
+[2026.02.18-06.05.33:551][852]LogViewport: Scene viewport resized to 1427x374, mode Windowed.
+[2026.02.18-06.05.33:584][853]LogViewport: Scene viewport resized to 1427x389, mode Windowed.
+[2026.02.18-06.05.33:617][854]LogViewport: Scene viewport resized to 1427x407, mode Windowed.
+[2026.02.18-06.05.33:654][855]LogViewport: Scene viewport resized to 1427x422, mode Windowed.
+[2026.02.18-06.05.33:685][856]LogViewport: Scene viewport resized to 1427x431, mode Windowed.
+[2026.02.18-06.05.33:718][857]LogViewport: Scene viewport resized to 1427x441, mode Windowed.
+[2026.02.18-06.05.34:049][866]LogViewport: Scene viewport resized to 1427x432, mode Windowed.
+[2026.02.18-06.05.52:356][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.05.52:356][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.05.52:357][409]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_233
+[2026.02.18-06.05.53:793][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.05.53:793][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.05.53:796][452]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_234
+[2026.02.18-06.06.09:012][903]Cmd: DELETE
+[2026.02.18-06.06.09:012][903]Cmd: ACTOR DELETE
+[2026.02.18-06.06.09:020][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-06.06.09:042][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2026.02.18-06.06.09:045][903]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.02.18-06.06.23:497][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.06.23:497][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.06.23:498][328]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_235
+[2026.02.18-06.06.25:139][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.06.25:139][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.06.25:141][377]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_236
+[2026.02.18-06.07.09:880][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16439.765625
+[2026.02.18-06.07.10:147][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.07.10:147][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16439.998047, Update Interval: 303.975342
+[2026.02.18-06.07.42:658][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.07.42:658][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.07.42:659][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_237
+[2026.02.18-06.07.44:493][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.07.44:493][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.07.44:495][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_238
+[2026.02.18-06.08.05:450][349]Cmd: DELETE
+[2026.02.18-06.08.05:450][349]Cmd: ACTOR DELETE
+[2026.02.18-06.08.05:455][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-06.08.05:462][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.18-06.08.05:462][349]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.02.18-06.08.06:661][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.08.06:661][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.08.06:661][382]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_239
+[2026.02.18-06.08.07:797][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.08.07:797][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerA.S_MarkerA
+[2026.02.18-06.08.07:799][416]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerA.S_MarkerA as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_240
+[2026.02.18-06.08.49:160][642]Cmd: EDIT COPY
+[2026.02.18-06.08.49:560][654]Cmd: EDIT PASTE
+[2026.02.18-06.09.25:027][704]Cmd: DELETE
+[2026.02.18-06.09.25:027][704]Cmd: ACTOR DELETE
+[2026.02.18-06.09.25:031][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-06.09.25:038][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.02.18-06.09.25:039][704]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2026.02.18-06.09.30:483][866]Cmd: EDIT COPY
+[2026.02.18-06.09.30:917][879]Cmd: EDIT PASTE
+[2026.02.18-06.09.58:346][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.09.58:347][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.09.58:347][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_243
+[2026.02.18-06.09.59:116][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.09.59:116][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.09.59:117][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_244
+[2026.02.18-06.10.16:590][221]Cmd: EDIT COPY
+[2026.02.18-06.10.16:923][231]Cmd: EDIT PASTE
+[2026.02.18-06.10.58:972][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.18-06.10.58:973][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-06.10.59:023][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto4
+[2026.02.18-06.10.59:023][473]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto42F66282448DB438F0351C8B988BF3E1C.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto4.umap'
+[2026.02.18-06.10.59:024][473]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto4.umap is in the /Temp path, will not scan.
+[2026.02.18-06.10.59:024][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.059
+[2026.02.18-06.10.59:024][473]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2026.02.18-06.11.08:114][746]LogViewport: Scene viewport resized to 1427x434, mode Windowed.
+[2026.02.18-06.11.08:149][747]LogViewport: Scene viewport resized to 1427x457, mode Windowed.
+[2026.02.18-06.11.08:182][748]LogViewport: Scene viewport resized to 1427x490, mode Windowed.
+[2026.02.18-06.11.08:216][749]LogViewport: Scene viewport resized to 1427x523, mode Windowed.
+[2026.02.18-06.11.08:248][750]LogViewport: Scene viewport resized to 1427x538, mode Windowed.
+[2026.02.18-06.11.08:282][751]LogViewport: Scene viewport resized to 1427x543, mode Windowed.
+[2026.02.18-06.11.08:381][754]LogViewport: Scene viewport resized to 1427x546, mode Windowed.
+[2026.02.18-06.11.08:547][759]LogViewport: Scene viewport resized to 1427x554, mode Windowed.
+[2026.02.18-06.11.08:582][760]LogViewport: Scene viewport resized to 1427x556, mode Windowed.
+[2026.02.18-06.12.29:417][158]Cmd: EDIT COPY
+[2026.02.18-06.12.29:850][171]Cmd: EDIT PASTE
+[2026.02.18-06.12.59:452][ 48]Cmd: DELETE
+[2026.02.18-06.12.59:452][ 48]Cmd: ACTOR DELETE
+[2026.02.18-06.12.59:457][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-06.12.59:462][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.18-06.12.59:464][ 48]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.18-06.13.12:480][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16801.763672
+[2026.02.18-06.13.12:780][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.13.12:780][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16802.031250, Update Interval: 356.735138
+[2026.02.18-06.13.18:697][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.13.18:697][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.13.18:697][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_247
+[2026.02.18-06.13.19:566][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.13.19:567][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerB.S_MarkerB
+[2026.02.18-06.13.19:568][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerB.S_MarkerB as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_248
+[2026.02.18-06.13.30:179][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.13.30:179][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.13.30:180][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_249
+[2026.02.18-06.13.31:636][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.13.31:636][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sample/S_MarkerR.S_MarkerR
+[2026.02.18-06.13.31:637][997]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sample/S_MarkerR.S_MarkerR as actor: StaticMeshActor /Game/StagepreB.StagepreB:PersistentLevel.StaticMeshActor_250
+[2026.02.18-06.14.14:524][265]Cmd: DELETE
+[2026.02.18-06.14.14:524][265]Cmd: ACTOR DELETE
+[2026.02.18-06.14.14:529][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-06.14.14:533][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.18-06.14.14:535][265]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2026.02.18-06.14.40:143][ 25]Cmd: EDIT COPY
+[2026.02.18-06.14.40:476][ 35]Cmd: EDIT PASTE
+[2026.02.18-06.14.56:907][522]Cmd: EDIT COPY
+[2026.02.18-06.14.57:308][534]Cmd: EDIT PASTE
+[2026.02.18-06.15.16:022][ 80]Cmd: EDIT COPY
+[2026.02.18-06.15.16:355][ 90]Cmd: EDIT PASTE
+[2026.02.18-06.15.38:359][746]LogViewport: Scene viewport resized to 1427x550, mode Windowed.
+[2026.02.18-06.15.38:393][747]LogViewport: Scene viewport resized to 1427x535, mode Windowed.
+[2026.02.18-06.15.38:426][748]LogViewport: Scene viewport resized to 1427x511, mode Windowed.
+[2026.02.18-06.15.38:459][749]LogViewport: Scene viewport resized to 1427x478, mode Windowed.
+[2026.02.18-06.15.38:495][750]LogViewport: Scene viewport resized to 1427x449, mode Windowed.
+[2026.02.18-06.15.38:527][751]LogViewport: Scene viewport resized to 1427x417, mode Windowed.
+[2026.02.18-06.15.38:559][752]LogViewport: Scene viewport resized to 1427x401, mode Windowed.
+[2026.02.18-06.15.38:594][753]LogViewport: Scene viewport resized to 1427x388, mode Windowed.
+[2026.02.18-06.15.38:626][754]LogViewport: Scene viewport resized to 1427x370, mode Windowed.
+[2026.02.18-06.15.38:660][755]LogViewport: Scene viewport resized to 1427x354, mode Windowed.
+[2026.02.18-06.15.38:692][756]LogViewport: Scene viewport resized to 1427x334, mode Windowed.
+[2026.02.18-06.15.38:725][757]LogViewport: Scene viewport resized to 1427x307, mode Windowed.
+[2026.02.18-06.15.38:760][758]LogViewport: Scene viewport resized to 1427x296, mode Windowed.
+[2026.02.18-06.15.38:792][759]LogViewport: Scene viewport resized to 1427x286, mode Windowed.
+[2026.02.18-06.15.38:825][760]LogViewport: Scene viewport resized to 1427x274, mode Windowed.
+[2026.02.18-06.15.38:859][761]LogViewport: Scene viewport resized to 1427x261, mode Windowed.
+[2026.02.18-06.15.38:892][762]LogViewport: Scene viewport resized to 1427x250, mode Windowed.
+[2026.02.18-06.15.38:926][763]LogViewport: Scene viewport resized to 1427x242, mode Windowed.
+[2026.02.18-06.15.41:563][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-06.15.41:633][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-06.15.41:652][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.18-06.15.41:974][842]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-06.15.41:974][842]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBF5770C5949A6A5AEC84C9DACCC70F480.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-06.15.41:996][842]LogFileHelpers: Saving map 'StagepreB' took 0.364
+[2026.02.18-06.15.42:006][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 443 ms (total: 1.57 sec)
+[2026.02.18-06.15.42:008][842]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.18-06.15.42:008][842]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-06.15.44:166][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.18-06.18.13:783][383]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.18-06.18.13:791][383]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.18-06.19.59:676][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17208.251953
+[2026.02.18-06.19.59:943][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.19.59:943][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17208.486328, Update Interval: 320.017700
+[2026.02.18-06.24.30:410][542]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.18-06.24.30:419][542]LogSlate: Window 'EUW JSONExport' being destroyed
+[2026.02.18-06.25.42:388][624]LogScript: Error: Script Msg: Traceback (most recent call last):
+
+  File "<string>", line 5, in <module>
+
+PermissionError: [Errno 13] Permission denied: 'D:/JsonBox/'
+
+[2026.02.18-06.25.42:388][624]LogScript: Error: Script call stack:
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.ExecuteUbergraph_EUW_JSONExport <---
+	/Game/JSONExport/EUW_JSONExport.EUW_JSONExport_C.BndEvt__EUW_test_Button_0_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature
+
+[2026.02.18-06.26.00:962][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17568.867188
+[2026.02.18-06.26.01:264][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.26.01:264][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17569.132812, Update Interval: 308.780182
+[2026.02.18-06.26.12:782][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.18-06.26.12:783][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-06.26.12:826][527]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto5
+[2026.02.18-06.26.12:827][527]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto5AD5DC27C4881F8725CA800BDE65DCD47.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto5.umap'
+[2026.02.18-06.26.12:827][527]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto5.umap is in the /Temp path, will not scan.
+[2026.02.18-06.26.12:827][527]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.052
+[2026.02.18-06.26.12:828][527]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.02.18-06.31.50:847][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17918.218750
+[2026.02.18-06.31.51:145][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.31.51:145][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17918.484375, Update Interval: 347.916504
+[2026.02.18-06.34.37:551][659]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.263 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-06.38.31:561][668]LogViewport: Scene viewport resized to 1427x247, mode Windowed.
+[2026.02.18-06.38.31:597][669]LogViewport: Scene viewport resized to 1427x269, mode Windowed.
+[2026.02.18-06.38.31:629][670]LogViewport: Scene viewport resized to 1427x303, mode Windowed.
+[2026.02.18-06.38.31:664][671]LogViewport: Scene viewport resized to 1427x344, mode Windowed.
+[2026.02.18-06.38.31:700][672]LogViewport: Scene viewport resized to 1427x372, mode Windowed.
+[2026.02.18-06.38.31:729][673]LogViewport: Scene viewport resized to 1427x401, mode Windowed.
+[2026.02.18-06.38.31:764][674]LogViewport: Scene viewport resized to 1427x431, mode Windowed.
+[2026.02.18-06.38.31:809][675]LogViewport: Scene viewport resized to 1427x467, mode Windowed.
+[2026.02.18-06.38.31:841][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18317.992188
+[2026.02.18-06.38.31:857][676]LogViewport: Scene viewport resized to 1427x512, mode Windowed.
+[2026.02.18-06.38.31:890][677]LogViewport: Scene viewport resized to 1427x535, mode Windowed.
+[2026.02.18-06.38.31:924][678]LogViewport: Scene viewport resized to 1427x556, mode Windowed.
+[2026.02.18-06.38.31:956][679]LogViewport: Scene viewport resized to 1427x568, mode Windowed.
+[2026.02.18-06.38.32:122][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.38.32:122][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18318.240234, Update Interval: 349.328278
+[2026.02.18-06.38.32:190][686]LogViewport: Scene viewport resized to 1427x567, mode Windowed.
+[2026.02.18-06.39.10:216][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.18-06.39.10:219][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-06.39.10:273][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-06.39.10:396][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.18-06.39.10:440][814]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-06.39.10:440][814]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreBCE654F7843E9547DC3E79EB5DEF9A461.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-06.39.10:450][814]LogFileHelpers: Saving map 'StagepreB' took 0.178
+[2026.02.18-06.39.10:490][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 271 ms (total: 1.84 sec)
+[2026.02.18-06.39.10:506][814]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.18-06.39.10:508][814]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-06.44.56:174][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18701.722656
+[2026.02.18-06.44.56:441][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.44.56:441][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18701.957031, Update Interval: 326.100647
+[2026.02.18-06.51.10:641][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19075.509766
+[2026.02.18-06.51.10:909][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.51.10:909][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19075.744141, Update Interval: 344.104126
+[2026.02.18-06.53.05:562][775]Cmd: EDIT COPY
+[2026.02.18-06.53.06:195][794]Cmd: EDIT PASTE
+[2026.02.18-06.53.47:660][ 14]LogViewport: Scene viewport resized to 1427x544, mode Windowed.
+[2026.02.18-06.53.47:694][ 15]LogViewport: Scene viewport resized to 1427x505, mode Windowed.
+[2026.02.18-06.53.47:727][ 16]LogViewport: Scene viewport resized to 1427x470, mode Windowed.
+[2026.02.18-06.53.47:761][ 17]LogViewport: Scene viewport resized to 1427x440, mode Windowed.
+[2026.02.18-06.53.47:795][ 18]LogViewport: Scene viewport resized to 1427x419, mode Windowed.
+[2026.02.18-06.53.47:827][ 19]LogViewport: Scene viewport resized to 1427x402, mode Windowed.
+[2026.02.18-06.53.47:861][ 20]LogViewport: Scene viewport resized to 1427x394, mode Windowed.
+[2026.02.18-06.53.47:895][ 21]LogViewport: Scene viewport resized to 1427x384, mode Windowed.
+[2026.02.18-06.53.47:927][ 22]LogViewport: Scene viewport resized to 1427x375, mode Windowed.
+[2026.02.18-06.53.47:961][ 23]LogViewport: Scene viewport resized to 1427x364, mode Windowed.
+[2026.02.18-06.53.47:994][ 24]LogViewport: Scene viewport resized to 1427x343, mode Windowed.
+[2026.02.18-06.53.48:027][ 25]LogViewport: Scene viewport resized to 1427x327, mode Windowed.
+[2026.02.18-06.53.48:060][ 26]LogViewport: Scene viewport resized to 1427x323, mode Windowed.
+[2026.02.18-06.53.48:326][ 34]LogViewport: Scene viewport resized to 1427x325, mode Windowed.
+[2026.02.18-06.53.48:361][ 35]LogViewport: Scene viewport resized to 1427x330, mode Windowed.
+[2026.02.18-06.53.48:395][ 36]LogViewport: Scene viewport resized to 1427x335, mode Windowed.
+[2026.02.18-06.53.52:126][148]LogViewport: Scene viewport resized to 1427x342, mode Windowed.
+[2026.02.18-06.53.52:161][149]LogViewport: Scene viewport resized to 1427x371, mode Windowed.
+[2026.02.18-06.53.52:195][150]LogViewport: Scene viewport resized to 1427x404, mode Windowed.
+[2026.02.18-06.53.52:227][151]LogViewport: Scene viewport resized to 1427x431, mode Windowed.
+[2026.02.18-06.53.52:262][152]LogViewport: Scene viewport resized to 1427x449, mode Windowed.
+[2026.02.18-06.53.52:295][153]LogViewport: Scene viewport resized to 1427x460, mode Windowed.
+[2026.02.18-06.53.52:328][154]LogViewport: Scene viewport resized to 1427x475, mode Windowed.
+[2026.02.18-06.53.52:361][155]LogViewport: Scene viewport resized to 1427x484, mode Windowed.
+[2026.02.18-06.53.52:394][156]LogViewport: Scene viewport resized to 1427x489, mode Windowed.
+[2026.02.18-06.53.52:427][157]LogViewport: Scene viewport resized to 1427x493, mode Windowed.
+[2026.02.18-06.53.52:493][159]LogViewport: Scene viewport resized to 1427x494, mode Windowed.
+[2026.02.18-06.54.42:996][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.18-06.54.42:997][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.02.18-06.54.43:038][613]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StagepreB_Auto6
+[2026.02.18-06.54.43:039][613]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB_Auto641D84B66427F37B59652AEAB20AAE1F7.tmp' to 'D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto6.umap'
+[2026.02.18-06.54.43:039][613]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Map_Goepon/Goeponmap/Saved/Autosaves/Game/StagepreB_Auto6.umap is in the /Temp path, will not scan.
+[2026.02.18-06.54.43:039][613]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StagepreB' took 0.052
+[2026.02.18-06.54.43:039][613]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.02.18-06.56.14:139][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.18-06.56.14:143][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-06.56.14:200][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StagepreB" FILE="D:/Map_Goepon/Goeponmap/Content/StagepreB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.18-06.56.14:221][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.18-06.56.14:265][332]LogSavePackage: Moving output files for package: /Game/StagepreB
+[2026.02.18-06.56.14:265][332]LogSavePackage: Moving 'D:/Map_Goepon/Goeponmap/Saved/StagepreB273071E347CA4CEDD8807CA765A9E433.tmp' to 'D:/Map_Goepon/Goeponmap/Content/StagepreB.umap'
+[2026.02.18-06.56.14:273][332]LogFileHelpers: Saving map 'StagepreB' took 0.073
+[2026.02.18-06.56.14:283][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.98 sec)
+[2026.02.18-06.56.14:285][332]AssetCheck: New page: アセット保存：StagepreB
+[2026.02.18-06.56.14:285][332]LogContentValidation: Display: /Script/Engine.World /Game/StagepreB.StagepreB を検証しています
+[2026.02.18-06.57.36:757][799]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19460.953125
+[2026.02.18-06.57.37:024][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-06.57.37:024][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19461.185547, Update Interval: 304.564972
+[2026.02.18-07.03.37:596][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19820.755859
+[2026.02.18-07.03.37:864][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.03.37:864][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19820.990234, Update Interval: 308.794830
+[2026.02.18-07.09.42:287][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20184.240234
+[2026.02.18-07.09.42:621][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.09.42:621][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20184.539062, Update Interval: 356.332275
+[2026.02.18-07.16.20:112][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20580.484375
+[2026.02.18-07.16.20:381][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.16.20:381][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20580.718750, Update Interval: 347.292084
+[2026.02.18-07.22.48:069][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20966.921875
+[2026.02.18-07.22.48:370][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.22.48:370][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20967.187500, Update Interval: 336.693634
+[2026.02.18-07.28.00:859][377]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.18-07.28.00:859][377]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.548e+07
+[2026.02.18-07.28.01:193][387]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.18-09.28.00 Remaining: 7200.77] Refresh[Expires: 2026-08-16T10:33:04.727Z Remaining: 15476704.73] State: Valid
+[2026.02.18-07.28.55:222][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21332.570312
+[2026.02.18-07.28.55:524][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.28.55:524][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21332.837891, Update Interval: 359.895630
+[2026.02.18-07.34.37:493][240]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.205 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-07.35.50:835][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21746.658203
+[2026.02.18-07.35.51:137][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.35.51:138][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21746.925781, Update Interval: 332.119507
+[2026.02.18-07.42.06:421][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22121.253906
+[2026.02.18-07.42.07:055][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.42.07:055][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22121.853516, Update Interval: 318.371521
+[2026.02.18-07.48.01:093][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22475.283203
+[2026.02.18-07.48.01:393][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.48.01:393][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22475.548828, Update Interval: 330.661957
+[2026.02.18-07.54.16:798][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22850.416016
+[2026.02.18-07.54.17:099][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-07.54.17:099][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22850.681641, Update Interval: 314.705658
+[2026.02.18-08.00.21:774][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23214.218750
+[2026.02.18-08.00.22:108][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.00.22:108][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23214.519531, Update Interval: 315.773193
+[2026.02.18-08.06.32:724][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23584.171875
+[2026.02.18-08.06.33:056][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.06.33:056][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23584.468750, Update Interval: 340.440063
+[2026.02.18-08.12.57:406][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23968.289062
+[2026.02.18-08.12.57:704][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.12.57:704][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23968.556641, Update Interval: 335.402679
+[2026.02.18-08.19.06:400][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24336.847656
+[2026.02.18-08.19.06:701][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.19.06:701][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24337.115234, Update Interval: 323.487671
+[2026.02.18-08.25.10:258][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24699.777344
+[2026.02.18-08.25.10:525][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.25.10:525][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24700.009766, Update Interval: 308.225342
+[2026.02.18-08.30.57:184][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25046.111328
+[2026.02.18-08.30.57:485][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.30.57:485][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25046.376953, Update Interval: 319.261444
+[2026.02.18-08.34.37:588][843]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.298 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-08.36.59:031][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25406.978516
+[2026.02.18-08.36.59:331][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.36.59:331][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25407.244141, Update Interval: 318.913544
+[2026.02.18-08.42.52:377][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25759.300781
+[2026.02.18-08.42.52:677][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.42.52:677][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25759.566406, Update Interval: 303.039642
+[2026.02.18-08.48.42:378][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26108.138672
+[2026.02.18-08.48.42:644][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.48.42:644][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26108.371094, Update Interval: 324.280518
+[2026.02.18-08.55.02:048][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26486.537109
+[2026.02.18-08.55.02:348][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.55.02:348][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26486.802734, Update Interval: 300.386353
+[2026.02.18-09.00.38:664][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26822.033203
+[2026.02.18-09.00.38:965][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.00.38:965][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26822.298828, Update Interval: 322.231506
+[2026.02.18-09.06.45:964][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27188.125000
+[2026.02.18-09.06.46:264][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.06.46:264][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27188.390625, Update Interval: 302.563568
+[2026.02.18-09.12.48:663][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27549.789062
+[2026.02.18-09.12.48:996][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.12.48:996][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27550.091797, Update Interval: 325.335236
+[2026.02.18-09.19.00:481][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27920.457031
+[2026.02.18-09.19.00:748][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.19.00:748][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27920.689453, Update Interval: 343.758057
+[2026.02.18-09.25.23:230][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28302.035156
+[2026.02.18-09.25.23:530][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.25.23:530][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28302.300781, Update Interval: 350.928680
+[2026.02.18-09.26.21:562][804]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 927...8e9
+[2026.02.18-09.26.21:563][804]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.547e+07
+[2026.02.18-09.26.21:864][813]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 927...8e9 Access[Expires: 2026.02.18-11.26.21 Remaining: 7200.54] Refresh[Expires: 2026-08-16T10:33:04.727Z Remaining: 15469603.73] State: Valid
+[2026.02.18-09.32.14:150][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28711.681641
+[2026.02.18-09.32.14:450][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.32.14:450][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28711.947266, Update Interval: 307.022308
+[2026.02.18-09.34.37:357][651]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-09.38.13:193][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29069.660156
+[2026.02.18-09.38.13:862][137]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.38.13:862][137]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29070.292969, Update Interval: 309.622498
+[2026.02.18-09.44.01:557][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29416.994141
+[2026.02.18-09.44.01:858][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.44.01:858][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29417.259766, Update Interval: 315.817139
+[2026.02.18-09.50.15:827][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29790.152344
+[2026.02.18-09.50.16:095][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.50.16:095][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29790.384766, Update Interval: 304.081543
+[2026.02.18-09.56.12:741][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30145.955078
+[2026.02.18-09.56.13:040][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-09.56.13:041][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30146.224609, Update Interval: 317.990662
+[2026.02.18-10.01.17:987][591]LogSlate: Took 0.016983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.18-10.02.23:893][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30516.169922
+[2026.02.18-10.02.24:328][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.02.24:328][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30516.570312, Update Interval: 319.946289
+[2026.02.18-10.08.35:329][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30887.468750
+[2026.02.18-10.08.35:608][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.08.35:608][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30887.732422, Update Interval: 319.116791
+[2026.02.18-10.14.48:326][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31259.492188
+[2026.02.18-10.14.48:626][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.14.48:626][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31259.757812, Update Interval: 300.774567
+[2026.02.18-10.20.40:898][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31611.544922
+[2026.02.18-10.20.41:192][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.20.41:192][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31611.812500, Update Interval: 352.027344
+[2026.02.18-10.27.25:716][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32015.621094
+[2026.02.18-10.27.26:054][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.27.26:054][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32015.927734, Update Interval: 308.906525
+[2026.02.18-10.33.16:551][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32365.746094
+[2026.02.18-10.33.16:851][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.33.16:851][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32366.013672, Update Interval: 319.435394
+[2026.02.18-10.34.37:837][145]LogDerivedDataCache: C:/Users/amg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.545 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1956 files in 3066 folders with total size 267 MiB.
+[2026.02.18-10.39.24:709][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32733.132812
+[2026.02.18-10.39.25:041][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-10.39.25:042][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32733.431641, Update Interval: 324.068115
+[2026.02.18-10.45.08:340][852]LogD3D12RHI: Display: D3D12 CreateCommittedResource failed with params:
+	Heap Type: 1
+	Heap Flags: 4096
+	Resource Dimension: 4
+	Resource Width: 192
+	Resource Height: 48
+	Format: 28
+	Resource Flags: 4
+[2026.02.18-10.45.08:344][852]LogD3D12RHI: Error: Adapter->CreateCommittedResource(Desc, GetGPUMask(), HeapProps, InCreateState, InResourceStateMode, DefaultState, InClearValue, &NewResource, InName, false) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12PoolAllocator.cpp:436 
+ with error E_OUTOFMEMORY
+
+[2026.02.18-10.45.56:685][853]LogConsoleResponse:     57 = 524288 KB (2D[2] 16384x4096 PF_R32_UINT UAV) Shadow.Virtual.PhysicalPagePool
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     56 = 87424 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     52 = 87424 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     58 = 87424 KB (2D 8192x2048 PF_R32_FLOAT UAV) Shadow.Virtual.HZBPhysicalPagePool
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     20 = 73984 KB (2D 4352x4352 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     38 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneDirectLighting
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     40 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneFinalLighting
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     62 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneIndirectLighting
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     19 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     31 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.Radiosity.TraceRadianceAtlas
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     46 = 57344 KB (3D 1024x1024x56 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     61 = 32768 KB (2D 4096x4096 PF_G16 RT) Lumen.SceneDepth
+[2026.02.18-10.45.56:686][853]LogConsoleResponse:     18 = 32768 KB (2D 4096x4096 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2026.02.18-10.45.56:688][853]LogConsoleResponse:     24 = 21504 KB (2D 2048x2048 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     33 = 16384 KB (2D 4096x4096 PF_BC5 UAV) Lumen.SceneNormal
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     37 = 16384 KB (2D 4096x4096 PF_BC6H UAV) Lumen.SceneEmissive
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     48 = 16384 KB (2D 4096x4096 PF_BC7 UAV) Lumen.SceneAlbedo
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     34 = 16384 KB (2D 4096x4096 PF_G8 RT) Lumen.SceneOpacity
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     47 = 16384 KB (2D 4096x4096 PF_R8 RT UAV) Lumen.SceneNumFramesAccumulatedAtlas
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     54 = 9280 KB (2D 1544x768 PF_DepthStencil) SceneDepthZ
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     13 = 9280 KB (2D 1544x768 PF_FloatRGBA RT UAV) Lumen.Reflections.SpecularIndirect
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     65 = 9280 KB (2D 1544x768 PF_FloatRGBA RT UAV) SceneColor
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     32 = 9280 KB (2D 1544x768 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2026.02.18-10.45.56:689][853]LogConsoleResponse:     27 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHBlueAtlas
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     28 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHGreenAtlas
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     30 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHRedAtlas
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     50 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     53 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     59 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     45 = 7168 KB (3D 512x512x28 PF_R8 UAV) GlobalDistanceField.CoverageAtlas
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     26 = 4672 KB (2D 1544x768 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     29 = 4672 KB (2D 1544x768 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     14 = 4672 KB (2D 1544x768 PF_R32_FLOAT UAV) Lumen.DepthHistory
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     23 = 4096 KB (2D 1024x1024 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     10 = 2368 KB (2D 1544x768 PF_R16F RT UAV) Lumen.Reflections.AccumulatedResolveVariance
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     25 = 2368 KB (2D 772x384 PF_FloatRGBA UAV) LightShaft.TemporalAA
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     72 = 2304 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     22 = 2048 KB (2D 1024x1024 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     70 = 1984 KB (2D 776x576 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:      9 = 1472 KB (2D 714x247 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:      4 = 1472 KB (2D 714x247 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     44 = 1344 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     41 = 1344 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     42 = 1344 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:      7 = 1216 KB (2D 1544x768 PF_G8 UAV) Lumen.Reflections.NumHistoryFramesAccumulated
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     21 = 1216 KB (2D 1544x768 PF_R8 UAV) Lumen.ScreenProbeGather.FastUpdateMode
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     15 = 1216 KB (2D 1544x768 PF_R8 UAV) Lumen.ScreenProbeGather.NumHistoryFramesAccumulated
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     43 = 1024 KB (3D 63x63x252 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:      8 = 768 KB (2D 714x247 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:      3 = 768 KB (2D 714x247 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     55 = 576 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.CapturedSkyRenderTarget
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     60 = 576 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget0
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     49 = 576 KB (Cube 128 PF_FloatR11G11B10 RT UAV) SkyLight.ConvolvedSkyRenderTarget1
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     12 = 384 KB (2D 357x124 PF_FloatRGBA RT UAV) VolumetricRenderTarget.SecondaryTracing
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     17 = 384 KB (2D 357x124 PF_FloatRGBA RT UAV) VolumetricRenderTarget.Tracing
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     16 = 384 KB (2D 357x124 PF_FloatRGBA RT UAV) VolumetricRenderTarget.TracingDepth
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     71 = 256 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2026.02.18-10.45.56:690][853]LogConsoleResponse:     68 = 192 KB (2D 97x72 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     66 = 192 KB (3D 45x16x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     76 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.RealTimeSkyCapViewLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     74 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.RealTimeSkyCapViewLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     75 = 128 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.SkyViewLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     11 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.CameraAPVolume0
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     77 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     73 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     36 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     67 = 128 KB (3D 45x16x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     51 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     35 = 64 KB (2D 1x1 PF_A32B32G32R32F UAV) EyeAdaptationTexture
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     39 = 64 KB (2D 1x1 PF_FloatRGB UAV) SkyAtmosphere.DistantSkyLightLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:      5 = 64 KB (2D 1x1 PF_R16F UAV) Dummy
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     64 = 64 KB (2D 256x64 PF_FloatRGB UAV) SkyAtmosphere.TransmittanceLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     63 = 64 KB (2D 32x32 PF_FloatRGB UAV) SkyAtmosphere.MultiScatteredLuminanceLut
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:     69 = 64 KB (2D 97x72 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:      1 = 64 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:      6 = 36 KB (2D 66x64 PF_A16B16G16R16) SSProfiles
+[2026.02.18-10.45.56:691][853]LogConsoleResponse:      2 = 8 KB (2D 768x8 PF_R8) AsciiTexture
+[2026.02.18-10.45.56:691][853]LogConsoleResponse: 
+[2026.02.18-10.45.56:691][853]LogConsoleResponse: Pool: 1519/1519 MB (referenced/allocated)
+[2026.02.18-10.45.56:693][853]LogConsoleResponse: 
+[2026.02.18-10.45.56:695][853]LogConsoleResponse: RDGResourceName (what was rendered this frame, use <RDGResourceName>@<Version> to get intermediate versions):
+[2026.02.18-10.45.56:696][853]LogConsoleResponse:    GBufferA         Lumen.RadianceCache.DepthProbeAtlasTexture                 Lumen.ScreenProbeGather.ScreenProbeWorldSpeed          SkyAtmosphere.MultiScatteredLuminanceLut
+[2026.02.18-10.45.56:696][853]LogConsoleResponse:    GBufferB         Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture      Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader  SkyAtmosphere.RealTimeSkyCapCamera360APLut
+[2026.02.18-10.45.56:696][853]LogConsoleResponse:    GBufferC         Lumen.RadianceCache.FinalRadianceAtlas                     Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices SkyAtmosphere.RealTimeSkyCapViewLut
+[2026.02.18-10.45.56:697][853]LogConsoleResponse:    GBufferD         Lumen.RadianceCache.RadianceProbeAtlasTextureSource        SceneColor                                             SkyAtmosphere.SkyViewLut
+[2026.02.18-10.45.56:697][853]LogConsoleResponse:    GBufferE         Lumen.RadianceCache.RadianceProbeIndirectionTexture        SceneDepthZ                                            SkyAtmosphere.TransmittanceLut
+[2026.02.18-10.45.56:697][853]LogConsoleResponse:    HZBClosest       Lumen.ScreenProbeGather.ScreenProbeSceneDepth              Shadow.Virtual.PhysicalPagePool                        SkyLight.CubeDepthTexture
+[2026.02.18-10.45.56:697][853]LogConsoleResponse:    HZBFurthest      Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition SkyAtmosphere.CameraAPVolume0                          SkyRenderTarget
+[2026.02.18-10.45.56:698][853]LogConsoleResponse:    LightingChannels Lumen.ScreenProbeGather.ScreenProbeWorldNormal             SkyAtmosphere.DistantSkyLightLut                       Substrate.DummyWritableTexture
+[2026.02.18-10.45.56:698][853]LogConsoleResponse: 
+[2026.02.18-10.45.56:698][853]Cmd: rhi.DumpMemory
+[2026.02.18-10.45.56:804][853]RHI resource memory (not tracked by our allocator)
+[2026.02.18-10.45.56:807][853]        30.643MB  -  Bindless Resource Heap - STAT_BindlessResourceHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]         0.441MB  -  Bindless Sampler Heap - STAT_BindlessSamplerHeapMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]         0.000MB  -  Misc Buffer Memory - STAT_MiscBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]         0.000MB  -  Draw Indirect Buffer Memory - STAT_DrawIndirectBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]        47.030MB  -  Byte Address Buffer Memory - STAT_ByteAddressBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]       141.027MB  -  Structured Buffer Memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]         0.000MB  -  RayTracing Acceleration Structure Memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]        37.500MB  -  Vertex Buffer Memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:807][853]         4.281MB  -  Index Buffer Memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]       -61.053MB  -  Uniform Buffer Memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]        18.285MB  -  Texture Cube Memory - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]         0.219MB  -  Texture 3D Memory - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]       327.738MB  -  Texture 2D Memory - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]      1225.938MB  -  UAV Texture Memory - STAT_UAVTextureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]         1.688MB  -  Render Target Cube Memory - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]         0.188MB  -  Render Target 3D Memory - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]       549.688MB  -  Render Target 2D Memory - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2026.02.18-10.45.56:808][853]2323.612MB total
+[2026.02.18-10.45.56:812][853]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnOutOfMemory)
+[2026.02.18-10.45.56:812][853]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0, D3D12Util.TerminateOnOutOfMemory)
+[2026.02.18-10.45.56:814][853]LogCore: Engine exit requested (reason: Win RequestExit)
+[2026.02.18-10.45.56:814][853]Cmd: Mem FromReport
+[2026.02.18-10.45.56:814][853]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.02.18-10.45.56:814][853]LogMemory: Process Physical Memory: 327.07 MB used, 2530.91 MB peak
+[2026.02.18-10.45.56:814][853]LogMemory: Process Virtual Memory: 5184.63 MB used, 7146.05 MB peak
+[2026.02.18-10.45.56:814][853]LogMemory: Physical Memory: 15540.64 MB used,  673.70 MB free, 16214.34 MB total
+[2026.02.18-10.45.56:815][853]LogMemory: Virtual Memory: 64938.81 MB used,  427.53 MB free, 65366.34 MB total
+[2026.02.18-10.45.56:815][853]LogMemory: 
+[2026.02.18-10.45.56:815][853]Allocator Stats for Mimalloc: (not implemented)
+[2026.02.18-10.45.56:815][853]LogMemory: Memory Stats:
+[2026.02.18-10.45.56:815][853]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2026.02.18-10.45.56:815][853]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [4.94 / 4.31] MB
+[2026.02.18-10.45.56:815][853]LogMemory: Nametable memory usage = 10.95 MB
